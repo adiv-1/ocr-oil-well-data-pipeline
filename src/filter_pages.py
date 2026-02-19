@@ -3,141 +3,98 @@ import re
 from pathlib import Path
 
 base = Path(__file__).resolve().parent.parent
-input_dir  = base / "data" / "ocr_pdfs"
-output_dir = base / "data" / "segments"
-output_dir.mkdir(parents=True, exist_ok=True)
+INPUT = base / "data" / "ocr_pdfs"
+OUT = base / "data" / "segments"
+OUT.mkdir(parents=True, exist_ok=True)
+
+MIN_LEN = 150
+ALPHA_RATIO = 0.20
+SINGLE_CHAR_RATIO = 0.40
 
 
-# ── Quality Filter ─────────────────────────────────────────────────────────
-
-def is_garbage(text: str) -> bool:
-    """
-    Returns True if page should be discarded.
-    Uses only text-quality signals — no domain knowledge.
-    """
+def is_garbage(text):
     t = text.strip()
-
-    # Empty or near-empty
-    if len(t) < 150:
+    if len(t) < MIN_LEN:
         return True
-
-    # Garbled image OCR — mostly non-alphabetic
-    alpha_ratio = sum(c.isalpha() for c in t) / max(len(t), 1)
-    if alpha_ratio < 0.20:
+    alpha = sum(1 for c in t if c.isalpha()) / max(len(t), 1)
+    if alpha < ALPHA_RATIO:
         return True
-
-    # Map pages produce streams of isolated chars
-    tokens = t.split()
-    if tokens:
-        single_char_ratio = sum(1 for tok in tokens if len(tok) == 1) / len(tokens)
-        if single_char_ratio > 0.40:
+    toks = t.split()
+    if toks:
+        single = sum(1 for tok in toks if len(tok) == 1) / len(toks)
+        if single > SINGLE_CHAR_RATIO:
             return True
-
     return False
 
 
-# ── Form Start Detection ───────────────────────────────────────────────────
-
-def is_new_form(text: str) -> bool:
-    """
-    Returns True if this page begins a new logical document.
-    Only checks the top 400 characters — headers never appear mid-page.
-    """
-    header = text.strip()[:400].lower()
-
+def is_new_form(text):
+    h = text.strip()[:400].lower()
     patterns = [
         r"well name and number",
         r"well file\s*(no|number|#)",
         r"api\s*(no|number|#)?[\s:\-]*\d{2}",
         r"sundry notices",
         r"form\s*[468]\b",
-        r"sfn\s*\d{4}",
-        r"application for permit",
+        r"sfn\s*\d{3,5}",
         r"spill\s*(report|incident)",
-        r"follow.up spill",
         r"certified survey",
         r"north dakota industrial commission",
         r"oil and gas division",
     ]
-
-    return any(re.search(p, header) for p in patterns)
-
-
-# ── Segmentation ───────────────────────────────────────────────────────────
-
-def segment_pages(pages: list) -> list:
-    """
-    Groups consecutive pages into segments.
-    A new segment starts whenever is_new_form() triggers.
-    """
-    segments = []
-    current  = []
-
-    for page in pages:
-        if is_new_form(page["text"]) and current:
-            segments.append(_build_segment(len(segments) + 1, current))
-            current = []
-        current.append(page)
-
-    if current:
-        segments.append(_build_segment(len(segments) + 1, current))
-
-    return segments
+    for p in patterns:
+        if re.search(p, h):
+            return True
+    return False
 
 
-def _build_segment(seg_id: int, pages: list) -> dict:
+def make_segment(i, pages):
     return {
-        "segment_id":   seg_id,
+        "segment_id": i,
         "page_numbers": [p["page_number"] for p in pages],
-        "text":         "\n\n".join(p["text"] for p in pages)
+        "text": "\n\n".join(p["text"] for p in pages)
     }
 
 
-# ── Process Well ───────────────────────────────────────────────────────────
+def segment_pages(pages):
+    segs = []
+    cur = []
+    for p in pages:
+        if is_new_form(p["text"]) and cur:
+            segs.append(make_segment(len(segs) + 1, cur))
+            cur = []
+        cur.append(p)
+    if cur:
+        segs.append(make_segment(len(segs) + 1, cur))
+    return segs
 
-def process_well(json_path: Path) -> None:
-    well_id = json_path.stem
-    output  = output_dir / f"{well_id}_segments.json"
 
-    if output.exists():
-        print(f"  skip: {well_id} (already done)")
+def process_file(path):
+    name = path.stem
+    outp = OUT / f"{name}_segments.json"
+    if outp.exists():
+        print("skip:", name)
         return
-
-    pages = json.loads(json_path.read_text(encoding="utf-8"))
+    pages = json.loads(path.read_text(encoding="utf-8"))
     total = len(pages)
-
-    # Filter garbage
     clean = [p for p in pages if not is_garbage(p["text"])]
-
-    # Segment
-    segments = segment_pages(clean)
-
-    # Summary
-    print(f"\n{well_id}")
-    print(f"  pages    : {total} → {len(clean)} kept ({total - len(clean)} dropped)")
-    print(f"  segments : {len(segments)}")
-    for s in segments:
+    segs = segment_pages(clean)
+    print(f"\n{name}")
+    print(f" pages: {total} -> kept {len(clean)} dropped {total - len(clean)}")
+    print(f" segments: {len(segs)}")
+    for s in segs:
         preview = s["text"][:70].replace("\n", " ")
-        print(f"    [{s['segment_id']:>2}] pages {str(s['page_numbers']):<15} \"{preview}...\"")
+        print(f"  [{s['segment_id']}] pages {s['page_numbers']} \"{preview}...\"")
+    outp.write_text(json.dumps(segs, indent=2), encoding="utf-8")
+    print("saved:", outp.name)
 
-    output.write_text(json.dumps(segments, indent=2), encoding="utf-8")
-    print(f"  saved: {output.name}")
-
-
-# ── Main ───────────────────────────────────────────────────────────────────
 
 def main():
-    wells = sorted(input_dir.glob("*.json"))
-
-    if not wells:
-        print(f"No files in {input_dir}")
+    files = sorted(INPUT.glob("*.json"))
+    if not files:
+        print("no input files in", INPUT)
         return
-
-    print(f"Processing {len(wells)} well(s)\n")
-    for w in wells:
-        process_well(w)
-
-    print("\nDone.")
+    for f in files:
+        process_file(f)
 
 
 if __name__ == "__main__":
