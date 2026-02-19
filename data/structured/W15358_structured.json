@@ -1,0 +1,922 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4H",
+      "operator": "RIM Operating, Inc",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4H",
+      "operator": "RIM Operatin , Inc",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game And Fish 34-3",
+      "operator": "Rim Operating, Inc.",
+      "county": null,
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS & CLARK 2-4H",
+      "operator": "RIM OPERATING, INC.",
+      "county": "MCKENZIE",
+      "township": null,
+      "range": "101 w",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "RIM OPERATING, INC.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "SM Energy Company",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4H",
+      "operator": "SM Energy Compan",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153",
+      "range": "101",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Clark 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153",
+      "range": "101",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis and Clark #2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153",
+      "range": "101",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis and Clark 2-4H",
+      "operator": "SM Energy Compan",
+      "county": "McKenzie",
+      "township": "153.N",
+      "range": "101 W",
+      "section": "33",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4",
+      "operator": "SM Energy",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "5",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4",
+      "operator": "SM Energy Co.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "33",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS & CLARK 2-4H",
+      "operator": "SM ENERGY COMPANY",
+      "county": "MCKENZIE",
+      "township": "153.N",
+      "range": null,
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "SM Energy",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS & CLARK 2-4H",
+      "operator": "SM ENERGY COMPANY",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS & CLARK 2-4H",
+      "operator": "IST MARY LAND & EXPLORATION COMPANY",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "St Mary Land & Exploration Company",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Nance Petroleum Corp.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis and Clark #2-4H",
+      "operator": "Nance Petroleum Corporation",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": null,
+      "well_name": "CHURCH 1-2",
+      "operator": "Nance Petroleum Corp.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 22,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS & CLARK 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "MCKENZIE",
+      "township": "1153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 23,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS & CLARK 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 24,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS AND CLARK 2-4",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "33",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 25,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153.N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 26,
+    "data": {
+      "api_number": "115358",
+      "well_name": "LEWIS & CLARK 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 27,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "February 4, 2004",
+          "formation": "Nesson",
+          "top_ft": 9803.0,
+          "bottom_ft": null,
+          "stages": null,
+          "total_volume": 24000.0,
+          "volume_units": "gal",
+          "treatment_type": "Acidizing",
+          "acid_percent": 15.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": 3900.0,
+          "max_rate_bbl_per_min": 14.0,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 28,
+    "data": {
+      "api_number": null,
+      "well_name": "WON Geer",
+      "operator": "Nance Pevoteum comoraton",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 29,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "401W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "January 13, 2004",
+          "formation": "Nesson",
+          "top_ft": 11200,
+          "bottom_ft": 12797,
+          "stages": null,
+          "total_volume": 35200,
+          "volume_units": "gal",
+          "treatment_type": "acid frac",
+          "acid_percent": 15.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": 6000,
+          "max_rate_bbl_per_min": 5,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 30,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS & CLARK 2-4H",
+      "operator": "Nance Petroleum Corporation",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": null,
+          "formation": "NESSON",
+          "top_ft": 8966,
+          "bottom_ft": 8974,
+          "stages": 8,
+          "total_volume": 14050,
+          "volume_units": "gal",
+          "treatment_type": "acidized",
+          "acid_percent": 20.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": 1800,
+          "max_rate_bbl_per_min": 49,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 31,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewls & Clark 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "November 12, 2003",
+          "formation": "Nesson",
+          "top_ft": 12797.0,
+          "bottom_ft": null,
+          "stages": null,
+          "total_volume": 14050.0,
+          "volume_units": "gal",
+          "treatment_type": "Acidizing",
+          "acid_percent": 20.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": null,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 32,
+    "data": {
+      "api_number": "33-053-02556",
+      "well_name": "Lewis and Clark 2-4H (Sidetrack-2/3)",
+      "operator": "NANCE PETROLEUM CORP",
+      "county": "McKenzie",
+      "township": "T153N",
+      "range": "R101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 33,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 34,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4H",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 35,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS AND CLARK 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 36,
+    "data": {
+      "api_number": null,
+      "well_name": "anaieiener",
+      "operator": null,
+      "county": "tay",
+      "township": "24",
+      "range": "103",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": null,
+          "formation": "Nesson",
+          "top_ft": 850,
+          "bottom_ft": 2200,
+          "stages": 8,
+          "total_volume": 176000,
+          "volume_units": "gal",
+          "treatment_type": "acidized",
+          "acid_percent": 20.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": null,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 37,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS & CLARK 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": null,
+      "township": "T153N",
+      "range": "R101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 38,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis and Glark #2-4H",
+      "operator": "Nance Petroleum Corp.",
+      "county": "lierance",
+      "township": "PP",
+      "range": "sow",
+      "section": "ferns",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 39,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS & CLARK 2-4H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 40,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis and Clark #2-4H",
+      "operator": "Nance Patroleum Corp.",
+      "county": "MCKENZIE",
+      "township": "T153N",
+      "range": "R101W",
+      "section": "4",
+      "latitude": 46.8812,
+      "longitude": -103.4161923,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 41,
+    "data": {
+      "api_number": "15358",
+      "well_name": "Lewis and Clark #2-4H",
+      "operator": "Nance Petroleum Corp.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 42,
+    "data": {
+      "api_number": "15388",
+      "well_name": "Lewis and Clark #2-4H",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 43,
+    "data": {
+      "api_number": "15358",
+      "well_name": "Lewis and Clark #2-4H",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 44,
+    "data": {
+      "api_number": "45358",
+      "well_name": "Lewis and Clark #2-4H",
+      "operator": "Nance Petroleum Carp.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 45,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis and Clark #2-4H",
+      "operator": "Nance Petroleum Corp.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 46,
+    "data": {
+      "api_number": "15358",
+      "well_name": "Lewis and Clark #2-4H",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 47,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis and Clark #2-4H",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 48,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4H",
+      "operator": "Nance Petroleum Corporation",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 49,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS & CLARK 2-4",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 50,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS AND CLARK 2-4",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "BAKER MADISON MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 51,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 52,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 53,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 54,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark 2-4",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 55,
+    "data": {
+      "api_number": "15358",
+      "well_name": "Lewis & Clark #24",
+      "operator": "Nance Petroleum Corp.",
+      "county": null,
+      "township": "153 N",
+      "range": "101 W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 56,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis & Clark #2-4",
+      "operator": "Zinke & Trumbo, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  }
+]

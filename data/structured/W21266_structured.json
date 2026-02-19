@@ -1,0 +1,477 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "Dahl Federal #15-11H",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": "Dahl 15-144",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": "Dahl 15-11H",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "1",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": "21266",
+      "well_name": "DAHL 15-11H",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153",
+      "range": "101",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": "33-053-03703",
+      "well_name": "Dahl 15-41H",
+      "operator": "SM Energy Compan",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": "Dahl 15-11H",
+      "operator": "SM Energy Co.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "22",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": "21266",
+      "well_name": "Dahl 15-11H",
+      "operator": "SM Energy Co.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "21266",
+      "well_name": "DAHL 15-11H",
+      "operator": "SM ENERGY COMPANY",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": "BAKER",
+      "operator": "SM ENERGY COMPANY",
+      "county": "McKenzie",
+      "township": "11",
+      "range": "101\u00b0 W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "SM-Energy",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "01/11/2012",
+          "formation": "Bakken",
+          "top_ft": 10952.0,
+          "bottom_ft": 20050.0,
+          "stages": 13,
+          "total_volume": 1822380.0,
+          "volume_units": "Gallons",
+          "treatment_type": "Sand Frae",
+          "acid_percent": null,
+          "lbs_proppant": 1450600.0,
+          "max_pressure_psi": 842.0,
+          "max_rate_bbl_per_min": 45.5,
+          "proppant_breakdown": [
+            {
+              "type": "20/40 sand",
+              "volume": 999800.0
+            },
+            {
+              "type": "40/70 sand",
+              "volume": 450800.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "SM ENERGY CO",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "CARTER 9-8HW",
+      "operator": null,
+      "county": "DIVIDE COUNTY",
+      "township": "8-163N",
+      "range": "101W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "Dahl 15-11H",
+      "operator": "SM Energy",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": null,
+      "well_name": "Dahl 15-11H",
+      "operator": "SM Energy Company",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "14",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": "21266",
+      "well_name": "DAHL 15-11H",
+      "operator": "SM ENERGY COMPANY",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "7101 W",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": null,
+      "well_name": "DAHL 15-11H",
+      "operator": "SM ENERGY COMPANY",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "11",
+      "latitude": 48.4,
+      "longitude": -103.389,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": null,
+      "well_name": "Dahl 15-14H",
+      "operator": "SM Energy Company",
+      "county": null,
+      "township": "453_N",
+      "range": "101 W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": null,
+      "well_name": "1\u00a7-11H",
+      "operator": "SM Energy Company",
+      "county": "McKenzie",
+      "township": "183 N",
+      "range": "101 W",
+      "section": "14",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": null,
+      "well_name": "Dahl 15-11H",
+      "operator": "SM Energy",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 22,
+    "data": {
+      "api_number": "33-053-03703-00 00",
+      "well_name": "Dah! 15-11H",
+      "operator": "SM Energy",
+      "county": "McKenzie",
+      "township": "T153N",
+      "range": "R101W",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 23,
+    "data": {
+      "api_number": null,
+      "well_name": "Dahl 15-11H",
+      "operator": "SM Energy Company",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "11",
+      "latitude": 48.0078,
+      "longitude": -103.6332,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 24,
+    "data": {
+      "api_number": null,
+      "well_name": "Daht 15-11H",
+      "operator": "SM Energy Company",
+      "county": "Mountrail",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 25,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 26,
+    "data": {
+      "api_number": null,
+      "well_name": "Dah! 15-11H",
+      "operator": "SM Energy Company",
+      "county": null,
+      "township": "153 N",
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 27,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 28,
+    "data": {
+      "api_number": null,
+      "well_name": "DAHLE 15-11H",
+      "operator": "SM ENERGY COMPANY",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 29,
+    "data": {
+      "api_number": null,
+      "well_name": "DAHL 45-114",
+      "operator": "SM ENERGY COMPANY",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 30,
+    "data": {
+      "api_number": null,
+      "well_name": "DAHL 15-11H",
+      "operator": "SM ENERGY COMPANY",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "11",
+      "latitude": 48.045638,
+      "longitude": -103.380924,
+      "stimulation_events": []
+    }
+  }
+]
