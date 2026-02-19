@@ -1,0 +1,1463 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish",
+      "operator": "RIM Operating, Inc",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "1101 W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish 34-3",
+      "operator": "RIM Operatin , Inc",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": "11745",
+      "well_name": "BASIC GAME & FISH 34-3",
+      "operator": "RIM OPERATING, INC.",
+      "county": "MCKENZIE",
+      "township": null,
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Rim Operating, Inc.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "SM Energy Company",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish 34-3H",
+      "operator": "SM Energy Compan",
+      "county": "McKenzie",
+      "township": "183N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": "11745",
+      "well_name": "BASIC GAME AND FISH     34-3",
+      "operator": "ST MARY LAND & EXPLORATION COMPANY",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME AND FISH     34-3",
+      "operator": "SM ENERGY COMPANY",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME AND FISH     34-3",
+      "operator": "ST MARY LAND & EXPLORATION COMPANY",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH 34-3",
+      "operator": "SM Energy",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game and Fish #34-3",
+      "operator": "SM Energy Company",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish 34-30 L",
+      "operator": "SM Energy",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "3928 494 FOWL",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH 34-3",
+      "operator": "SM ENERGY COMPANY",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish 34-3H",
+      "operator": "SM Energy",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "401 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "2",
+      "operator": "SM ENERGY COMPANY",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH",
+      "operator": "ST MARY LAND & EXPLORATION COMPANY",
+      "county": "McKENZIE",
+      "township": "153_N",
+      "range": "101 W",
+      "section": "34",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": "Baste Game & Fish 34-3",
+      "operator": "Nance Petroleum Corporation",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "34-3",
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "34-3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "34",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 22,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish 34-3",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 23,
+    "data": {
+      "api_number": "33-053-02102",
+      "well_name": "BASIC GAME & FISH 34-3",
+      "operator": "Nance Petroleum Corporation",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 24,
+    "data": {
+      "api_number": "41748",
+      "well_name": "Basic Game & Fish 34-3H",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 25,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "4 Nance Petroleum",
+      "county": "McKenzie County",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 26,
+    "data": {
+      "api_number": null,
+      "well_name": "BAS IC GAME & FISH 34-3",
+      "operator": "NAN CE PETROLEUM CORPORATION",
+      "county": "BAER MADISON McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "November 2002",
+          "formation": "Nesson",
+          "top_ft": 9350,
+          "bottom_ft": 12800,
+          "stages": 5,
+          "total_volume": 7500,
+          "volume_units": "gal",
+          "treatment_type": "Acidizing",
+          "acid_percent": 15.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": null,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 27,
+    "data": {
+      "api_number": "33-053-02102",
+      "well_name": "BASICGAME & FISH 34-3",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 28,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish 34-3H",
+      "operator": "Nance Petroleum Corporation",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 29,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH 34-3",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 30,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3 Well 2",
+      "operator": "Se. Mary Lane & \u00a5xplaation Co",
+      "county": "McKenzie Co.",
+      "township": "T15IN",
+      "range": "R1O1W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 31,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH 34-3H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "2",
+      "latitude": 39.365227,
+      "longitude": -103.70683,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 32,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH 34-3H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": null,
+          "formation": "Mission Canyon (Nesson)",
+          "top_ft": 9238.0,
+          "bottom_ft": null,
+          "stages": 5,
+          "total_volume": null,
+          "volume_units": null,
+          "treatment_type": "Acidize",
+          "acid_percent": null,
+          "lbs_proppant": null,
+          "max_pressure_psi": null,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 33,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME AND FISH 34-3H",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 34,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 35,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 36,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Nance Petroleum Corp.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 37,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH 34-3 SSM",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 38,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH 34-3 G WS",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 39,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Nance Petroleum Comoration",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "1W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 40,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Nance Petrateum Corporation",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 41,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH",
+      "operator": "PANTERRA PETROLEUM BAKER",
+      "county": "MC KENZIE",
+      "township": "28",
+      "range": null,
+      "section": "34",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 42,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Panterra Petroleum",
+      "county": null,
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 43,
+    "data": {
+      "api_number": null,
+      "well_name": "Baker Madison",
+      "operator": "PANTERRA PETROLEUM",
+      "county": null,
+      "township": "153N",
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 44,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH 34-3",
+      "operator": "PANTERRA PETROLEUM",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "9/9/97",
+          "formation": "NESSON",
+          "top_ft": 9234.0,
+          "bottom_ft": 9254.0,
+          "stages": null,
+          "total_volume": 2900.0,
+          "volume_units": "GAL",
+          "treatment_type": "ACIDIZE",
+          "acid_percent": 15.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": 2150.0,
+          "max_rate_bbl_per_min": 5.0,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 45,
+    "data": {
+      "api_number": "33-053-02102",
+      "well_name": "BASIC GAME & FISH 34.3",
+      "operator": "PANTERRA PETROLEUM",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "9/9/97",
+          "formation": "NESSON",
+          "top_ft": 9234.0,
+          "bottom_ft": 9254.0,
+          "stages": null,
+          "total_volume": 2900.0,
+          "volume_units": "GAL",
+          "treatment_type": "ACIDIZE",
+          "acid_percent": 15.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": 2150.0,
+          "max_rate_bbl_per_min": 5.0,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 46,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish 34-3",
+      "operator": "Panterra Petroleum",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 47,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "PANTERRA PETROLEUM",
+      "county": "McKenzie",
+      "township": "3-T153N",
+      "range": "R101W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 48,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "PANTERRA PETROLEUM",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "11W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 49,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH 34-3",
+      "operator": "PANTERRA PETROLEUM",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": null,
+          "formation": "Mission Canyon",
+          "top_ft": 9234.0,
+          "bottom_ft": 9254.0,
+          "stages": null,
+          "total_volume": 2000.0,
+          "volume_units": "gal",
+          "treatment_type": "Acidizing",
+          "acid_percent": 15.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": null,
+          "max_rate_bbl_per_min": 3.0,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 50,
+    "data": {
+      "api_number": "11765",
+      "well_name": null,
+      "operator": "PANTERA PETROLEUM",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "10W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 51,
+    "data": {
+      "api_number": "34-009-20193",
+      "well_name": null,
+      "operator": "PANTERRA PETROLEUM",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 52,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish 34-3",
+      "operator": "Panterra Petroleum",
+      "county": "McKenzie",
+      "township": "3-T153N",
+      "range": "R101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 53,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "PANTERRA PETROLEUM",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 54,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "PANTERRA PETROLEUM",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 55,
+    "data": {
+      "api_number": "11745",
+      "well_name": null,
+      "operator": "PANTERRA PETROLEUM",
+      "county": "MCKENZIE",
+      "township": "3",
+      "range": "1010",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 56,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Panterra Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 57,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "JOHN L. COX",
+      "county": "BAKER",
+      "township": "153N",
+      "range": "101W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 58,
+    "data": {
+      "api_number": "11745",
+      "well_name": null,
+      "operator": "PANTERRA PETROLEUM",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 59,
+    "data": {
+      "api_number": "11745",
+      "well_name": "Basic Game & Fish 34-3",
+      "operator": "JOHN L. COX",
+      "county": "McKenzie",
+      "township": "153-N",
+      "range": "101-W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 60,
+    "data": {
+      "api_number": null,
+      "well_name": "BASIC GAME & FISH #34-3",
+      "operator": "John L. Cox",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 61,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "JOHN L. COX",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 62,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "T153N",
+      "range": "R101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 63,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 64,
+    "data": {
+      "api_number": "11745",
+      "well_name": "Basic Game & Fish #24-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "153",
+      "range": "101",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 65,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #24-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "153 North",
+      "range": "101 West",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 66,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": null,
+      "county": null,
+      "township": "T153N",
+      "range": "R101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 67,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Pish #34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 68,
+    "data": {
+      "api_number": "11745",
+      "well_name": "Basic Game & Fish 34-3",
+      "operator": null,
+      "county": null,
+      "township": "T153N",
+      "range": "R101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 69,
+    "data": {
+      "api_number": null,
+      "well_name": "#34-3",
+      "operator": "Basic Game & Fish",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 70,
+    "data": {
+      "api_number": "11745",
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": null,
+      "county": null,
+      "township": "T153N",
+      "range": "RLO1W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 71,
+    "data": {
+      "api_number": null,
+      "well_name": "Game & Fish #34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "Mckenzie",
+      "township": "15N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 72,
+    "data": {
+      "api_number": null,
+      "well_name": "Game & Fish #34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 73,
+    "data": {
+      "api_number": null,
+      "well_name": "#34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 74,
+    "data": {
+      "api_number": null,
+      "well_name": "434-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "Janyary 30.1986",
+          "formation": "Madison Pool",
+          "top_ft": 9234.0,
+          "bottom_ft": 9254.0,
+          "stages": null,
+          "total_volume": 124.0,
+          "volume_units": "bbl",
+          "treatment_type": "Acidize",
+          "acid_percent": 15.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": 3100.0,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 75,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "T153N",
+      "range": "R101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 76,
+    "data": {
+      "api_number": null,
+      "well_name": "#34-3",
+      "operator": "Basic Gane & Fish",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "10W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 77,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "T1S3N",
+      "range": "R10IW",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 78,
+    "data": {
+      "api_number": null,
+      "well_name": "#34-3",
+      "operator": "Basic Game & Fish",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 79,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 80,
+    "data": {
+      "api_number": "11725",
+      "well_name": "Basic Game & Fish #3423",
+      "operator": null,
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 81,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 82,
+    "data": {
+      "api_number": "11745",
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 83,
+    "data": {
+      "api_number": "11745",
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": null,
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 84,
+    "data": {
+      "api_number": "33",
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 85,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game & Fish #34-3",
+      "operator": "Basic Earth Science Systems, Inc.",
+      "county": "MoKenzie",
+      "township": "T1S3N",
+      "range": "R101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 86,
+    "data": {
+      "api_number": "11745",
+      "well_name": "15-4",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "Mckenzie",
+      "township": "153",
+      "range": "01",
+      "section": "4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 87,
+    "data": {
+      "api_number": null,
+      "well_name": "Burk #15-3",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 88,
+    "data": {
+      "api_number": "11745",
+      "well_name": "Nance Petroleum #15-3-Homs",
+      "operator": "Nance Petroleum Corporation",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 89,
+    "data": {
+      "api_number": null,
+      "well_name": "Burk #15-3",
+      "operator": "NANGE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "TL53N",
+      "range": "R101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 90,
+    "data": {
+      "api_number": "230000000000",
+      "well_name": "Burk #15-3",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 91,
+    "data": {
+      "api_number": null,
+      "well_name": "wae #15~4",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101H",
+      "section": "3",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "Corps of Engineers 31-10",
+      "operator": "RIM Operating, Inc",
+      "county": "McKenzie",
+      "township": "153.N",
+      "range": "401 W",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": "31-10",
+      "operator": "RIM Operating, Inc",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101 W",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": "11920",
+      "well_name": "CORPS OF ENGINEERS     31-10",
+      "operator": "RIM OPERATING, INC.",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "RIM Operatin , Inc",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": "Basic Game And Fish 34-3",
+      "operator": "Rim Operating, Inc.",
+      "county": null,
+      "township": "153N",
+      "range": "101W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": "11920",
+      "well_name": "CORPS OF ENGINEERS 31-10",
+      "operator": "RIM OPERATING, INC.",
+      "county": "MCKENZIE",
+      "township": null,
+      "range": "101 w",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "RIM OPERATING, INC.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": "Corps of Engineers 31-10",
+      "operator": "SM Energy Compan",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": null,
+      "well_name": "CORPS OF ENGINEERS     31-10",
+      "operator": "SM ENERGY COMPANY",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": "11920",
+      "well_name": "CORPS OF ENGINEERS     31-10",
+      "operator": "ST MARY LAND & EXPLORATION COMPANY",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "Corp. of Engineers 31-10",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKenzie",
+      "township": "153",
+      "range": "101",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "31-10",
+      "operator": "SM Energy",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "23",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "Corp of Engineers 31-10",
+      "operator": "SM Energy",
+      "county": "McKenzie",
+      "township": "10",
+      "range": "101",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "31-10",
+      "operator": "SM Energy",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "CORPS OF ENGINEERS 31-10",
+      "operator": "SM ENERGY COMPANY",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "62",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": null,
+      "well_name": "Corps of Engincers #31-10",
+      "operator": "St Mary Land & Exploration Company",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": "31-10",
+      "operator": "ST MARY LAND & EXPLORATION COMPANY",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "104 W",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Nance Petroleum Corporation",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": null,
+      "well_name": "31-10 INWNE",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": null,
+      "well_name": "31-10",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 22,
+    "data": {
+      "api_number": null,
+      "well_name": "fatr-Qtr",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153.N",
+      "range": "101 W",
+      "section": "31-10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 23,
+    "data": {
+      "api_number": null,
+      "well_name": "31-10",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "10",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 24,
+    "data": {
+      "api_number": null,
+      "well_name": "CORPS OF ENGINEERS 31-10",
+      "operator": "NANCE PETROLEUM CORPORATION",
+      "county": "McKENZIE",
+      "township": "145",
+      "range": "101 W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  }
+]
