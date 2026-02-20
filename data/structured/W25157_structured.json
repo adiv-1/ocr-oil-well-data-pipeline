@@ -1,0 +1,271 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee #3-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101 W",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Continental Resources, Inc.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "CONTINENTAL RESOURCES",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 3-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": null,
+      "township": "153 N",
+      "range": "101 W",
+      "section": "SENE",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": "25157",
+      "well_name": "Tallahassee 3-16H",
+      "operator": "Continental Resources Inc.",
+      "county": "McKenzie",
+      "township": null,
+      "range": "101 w",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 3-16H",
+      "operator": null,
+      "county": null,
+      "township": "21",
+      "range": "101",
+      "section": "14",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "3/14/2014",
+          "formation": "Three Forks",
+          "top_ft": 10830.0,
+          "bottom_ft": 18434.0,
+          "stages": 24,
+          "total_volume": 64952.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": null,
+          "lbs_proppant": 2829582.0,
+          "max_pressure_psi": 8491.0,
+          "max_rate_bbl_per_min": 31.0,
+          "proppant_breakdown": [
+            {
+              "type": "40/70 mesh",
+              "volume": 89291.0
+            },
+            {
+              "type": "20/40 sand",
+              "volume": 1970321.0
+            },
+            {
+              "type": "20/40 ceramic",
+              "volume": 769970.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": "33-053-04853",
+      "well_name": "Tallahassee 3-16H",
+      "operator": "Continental Resources Inc.",
+      "county": "McKenzie Co.",
+      "township": "153N",
+      "range": "101W",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 3-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzl",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 3-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 3-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "TALLAHASSEE 3-16H",
+      "operator": "CONTINENTAL RESOURCES, INC.",
+      "county": "MCKENZIE",
+      "township": "16",
+      "range": "101",
+      "section": "153",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 3-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": null,
+      "well_name": "TALLAHASSEE 3-16H",
+      "operator": "CONTINENTAL RESOURCES, INC.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "16",
+      "latitude": 48.04,
+      "longitude": -103.4,
+      "stimulation_events": []
+    }
+  }
+]

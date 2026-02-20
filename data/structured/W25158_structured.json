@@ -1,0 +1,297 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "See Attached",
+      "operator": "Continental Resources, Inc.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "CONTINENTAL RESOURCES",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": "TALLAHASSEE  2-16H",
+      "operator": "CONTINENTAL RESOURCES, INC.",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "3/14/2014",
+          "formation": "Bakken",
+          "top_ft": 11080.0,
+          "bottom_ft": 18127.0,
+          "stages": 24,
+          "total_volume": 56607.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": null,
+          "lbs_proppant": 3013084.0,
+          "max_pressure_psi": 7518.0,
+          "max_rate_bbl_per_min": 30.0,
+          "proppant_breakdown": [
+            {
+              "type": "20/40 sand",
+              "volume": 2150603.0
+            },
+            {
+              "type": "20/40 ceramic",
+              "volume": 862481.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": "33-053-04854",
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources Inc.",
+      "county": "McKenzie Co.",
+      "township": "153N",
+      "range": "101W",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "25",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": "25158",
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": null,
+      "well_name": "TALLAHASSEE 2-16H",
+      "operator": "CONTINENT AL RESOURCES, INC.",
+      "county": "MCKENZIE",
+      "township": "16",
+      "range": "101",
+      "section": "153",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": "Tallahassee 2-16H",
+      "operator": "Continental Resources, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "16",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": "2547",
+      "well_name": "TALLAHASSEE 2-16H",
+      "operator": "CONTINENTAL RESOURCES, INC.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "16",
+      "latitude": 48.04,
+      "longitude": -103.401168,
+      "stimulation_events": []
+    }
+  }
+]
