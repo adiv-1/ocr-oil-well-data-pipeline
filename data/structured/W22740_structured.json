@@ -1,0 +1,63 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": "3310504981",
+      "well_name": "Larry 5301 44-128",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": [
+        "3305303609",
+        "3305304981",
+        "3305303911",
+        "3305303912",
+        "3305303936",
+        "3305304981",
+        "3305303937"
+      ],
+      "well_name": [
+        "Bray 530143-12H",
+        "Larry 530144-12B",
+        "Yukon 530141-12T",
+        "Achilles 530141-12B",
+        "Jefferies 530143-12B",
+        "Colville 530144-12T",
+        "Innoko 530143-12T"
+      ],
+      "operator": "Oasis Petroleum Inc.",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": "Larrv 5301 44-128",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  }
+]
