@@ -3,12 +3,12 @@
     "segment_id": 1,
     "data": {
       "api_number": null,
-      "well_name": "Chalmers 5300",
+      "well_name": "Kline Federal 5300 41-18 14BX",
       "operator": "Oasis Petroleum North America LLC",
       "county": "McKenzie",
       "township": "153 N",
       "range": "100 W",
-      "section": "21",
+      "section": "14",
       "latitude": null,
       "longitude": null,
       "stimulation_events": []
@@ -17,13 +17,13 @@
   {
     "segment_id": 2,
     "data": {
-      "api_number": "28633",
-      "well_name": "Chalmers 5300 21-19 5T",
+      "api_number": "28655",
+      "well_name": "Kline Federal 5300 41-18 14BX",
       "operator": "Oasis Petroleum North America LLC",
       "county": "McKenzie",
-      "township": "153N",
-      "range": "100W",
-      "section": "19",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "18",
       "latitude": null,
       "longitude": null,
       "stimulation_events": []
@@ -33,12 +33,12 @@
     "segment_id": 3,
     "data": {
       "api_number": null,
-      "well_name": "Chalmers 5300 21-19 ST",
+      "well_name": "Kline Federal 5300 41-1814BX",
       "operator": "Oasis Petroleum North America",
       "county": "McKenzie",
-      "township": "153N",
-      "range": "100W",
-      "section": "19/20",
+      "township": "153",
+      "range": "100 W",
+      "section": "18",
       "latitude": null,
       "longitude": null,
       "stimulation_events": []
@@ -73,30 +73,34 @@
       "longitude": null,
       "stimulation_events": [
         {
-          "date_stimulated": "04/25/2015",
-          "formation": "Three Forks",
-          "top_ft": 11165.0,
-          "bottom_ft": 20511.0,
-          "stages": 36,
-          "total_volume": 96178.0,
+          "date_stimulated": "06/09/2015",
+          "formation": "Bakken",
+          "top_ft": 11113.0,
+          "bottom_ft": 20645.0,
+          "stages": 50,
+          "total_volume": 214895.0,
           "volume_units": "Barrels",
           "treatment_type": "Sand Frac",
-          "acid_percent": 40.0,
-          "lbs_proppant": 4011690.0,
-          "max_pressure_psi": 9390.0,
-          "max_rate_bbl_per_min": null,
+          "acid_percent": null,
+          "lbs_proppant": 9543260.0,
+          "max_pressure_psi": 9411.0,
+          "max_rate_bbl_per_min": 41.0,
           "proppant_breakdown": [
             {
               "type": "100 Mesh White",
-              "volume": 144690.0
+              "volume": 235860.0
             },
             {
               "type": "40170 White",
-              "volume": 1554590.0
+              "volume": 1249960.0
             },
             {
-              "type": "20140 Ceramic",
-              "volume": 2282410.0
+              "type": "20/40 White",
+              "volume": 6292960.0
+            },
+            {
+              "type": "20/40 Resin Coated",
+              "volume": 1364480.0
             }
           ]
         }
@@ -106,13 +110,13 @@
   {
     "segment_id": 6,
     "data": {
-      "api_number": "28636",
-      "well_name": "CHALMERS 5300 21-19 ST",
+      "api_number": null,
+      "well_name": "KLINE FEDERAL 5300 41-1814BX",
       "operator": "Oasis Petroleum North America LLC",
       "county": "Mckenzie",
-      "township": "153",
+      "township": null,
       "range": "100",
-      "section": "19",
+      "section": "18",
       "latitude": null,
       "longitude": null,
       "stimulation_events": []
@@ -122,12 +126,12 @@
     "segment_id": 7,
     "data": {
       "api_number": null,
-      "well_name": "Chalmers 5300 21-19 ST",
+      "well_name": "Kline Federal 5300 41-18 14BX",
       "operator": "Oasis Petroleum North America",
       "county": "McKenzie",
       "township": "153N",
       "range": "100W",
-      "section": "19/20",
+      "section": "18",
       "latitude": null,
       "longitude": null,
       "stimulation_events": []
@@ -166,44 +170,28 @@
   {
     "segment_id": 10,
     "data": {
-      "api_number": "28636",
-      "well_name": "Chalmers 5300 21-19 ST",
-      "operator": "Oasis Petroleum North America LLC",
-      "county": "McKenzie",
-      "township": "153 N",
-      "range": "100 w",
-      "section": "19",
+      "api_number": "28655",
+      "well_name": "KLINE FEDERAL 5300 41-18 14BX",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LL",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "100",
+      "section": "18",
       "latitude": null,
       "longitude": null,
-      "stimulation_events": [
-        {
-          "date_stimulated": "Ma 1, 2015",
-          "formation": "Bakken",
-          "top_ft": null,
-          "bottom_ft": null,
-          "stages": null,
-          "total_volume": null,
-          "volume_units": null,
-          "treatment_type": "Fracture Treatment",
-          "acid_percent": null,
-          "lbs_proppant": null,
-          "max_pressure_psi": 11220.0,
-          "max_rate_bbl_per_min": null,
-          "proppant_breakdown": []
-        }
-      ]
+      "stimulation_events": []
     }
   },
   {
     "segment_id": 11,
     "data": {
-      "api_number": "28636",
-      "well_name": "Chalmers 5300 21-19 ST",
+      "api_number": null,
+      "well_name": "Kline Federal 6300 41-1814BX",
       "operator": "Oasis Petroleum North America LLC",
       "county": "McKenzie",
       "township": "153 N",
-      "range": "100 w",
-      "section": "19",
+      "range": "100 W",
+      "section": "18",
       "latitude": null,
       "longitude": null,
       "stimulation_events": []
@@ -212,45 +200,61 @@
   {
     "segment_id": 12,
     "data": {
-      "api_number": null,
-      "well_name": "Chalmers 5300 21-19 BT",
-      "operator": "Oasis Petroleum North America LLC",
+      "api_number": "33-053-06029",
+      "well_name": "Kline Federal 5300 41-18 14BX",
+      "operator": "Oasis Petroleum North America",
       "county": "McKenzie",
-      "township": "153 N",
-      "range": "100 w",
-      "section": "19",
-      "latitude": null,
-      "longitude": null,
+      "township": "T153N",
+      "range": "R100W",
+      "section": "18",
+      "latitude": 48.6666667,
+      "longitude": -103.6027778,
       "stimulation_events": []
     }
   },
   {
     "segment_id": 13,
     "data": {
-      "api_number": "33-053-06021",
-      "well_name": "Chalmers 5300 21-19 8T",
-      "operator": "Oasis Petroleum North America, LLC",
-      "county": "McKenzie County",
-      "township": "153N",
-      "range": "100W",
-      "section": "19",
+      "api_number": null,
+      "well_name": "Kline Federal 5300 41-18 14BX",
+      "operator": "Oas is Petroleum North America LLC",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "18",
       "latitude": null,
       "longitude": null,
-      "stimulation_events": []
+      "stimulation_events": [
+        {
+          "date_stimulated": null,
+          "formation": "Bakken",
+          "top_ft": null,
+          "bottom_ft": null,
+          "stages": null,
+          "total_volume": null,
+          "volume_units": null,
+          "treatment_type": "fracture stimulation",
+          "acid_percent": null,
+          "lbs_proppant": null,
+          "max_pressure_psi": 11220,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
     }
   },
   {
     "segment_id": 14,
     "data": {
       "api_number": null,
-      "well_name": "Chalmers 5300 21-19 ST",
+      "well_name": "Kline Federal 5300 41-18 14BX",
       "operator": "Oasis Petroleum North America LLC",
       "county": "McKenzie",
       "township": "153 N",
-      "range": "100 w",
-      "section": "19",
-      "latitude": null,
-      "longitude": null,
+      "range": "100 W",
+      "section": "18",
+      "latitude": 48.73889,
+      "longitude": -103.60278,
       "stimulation_events": []
     }
   },
@@ -258,14 +262,14 @@
     "segment_id": 15,
     "data": {
       "api_number": null,
-      "well_name": "Chalmers 5300 21-19 BT",
-      "operator": "Oasis Petroleum Inc.",
-      "county": "McKenzie",
-      "township": "153 N",
-      "range": "100 W",
-      "section": "19",
-      "latitude": 48.056944,
-      "longitude": -103.602778,
+      "well_name": "KLINE FEDERAL 5300 41-18 14BX",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "18",
+      "range": "100",
+      "section": "14",
+      "latitude": null,
+      "longitude": null,
       "stimulation_events": []
     }
   },
@@ -273,12 +277,12 @@
     "segment_id": 16,
     "data": {
       "api_number": null,
-      "well_name": "CHALMERS 5300 21-198T",
-      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
-      "county": "MCKENZIE",
-      "township": "19",
-      "range": "100",
-      "section": null,
+      "well_name": "Kline Federal 8300 41-18 148X",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100 W",
+      "section": "18",
       "latitude": null,
       "longitude": null,
       "stimulation_events": []
@@ -288,12 +292,12 @@
     "segment_id": 17,
     "data": {
       "api_number": null,
-      "well_name": "Chalmers 5300 21-19 8T",
-      "operator": "Oasis Petroleum North America LLC",
+      "well_name": "KLINE FEDERAL 5300 41-18 14BX",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
       "county": "McKenzie",
-      "township": "153.N",
-      "range": "100 W.",
-      "section": "32",
+      "township": "153N",
+      "range": "100W",
+      "section": "18",
       "latitude": null,
       "longitude": null,
       "stimulation_events": []
@@ -303,14 +307,14 @@
     "segment_id": 18,
     "data": {
       "api_number": null,
-      "well_name": "CHALMERS 5300 21-19 8T",
-      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "well_name": "Kline Federal 5300 41-18 ST",
+      "operator": "Oasis Petroleum",
       "county": "McKenzie",
-      "township": "153N",
-      "range": "100W",
-      "section": "19",
-      "latitude": 48.5,
-      "longitude": -103.36,
+      "township": "153",
+      "range": "100",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
       "stimulation_events": []
     }
   }

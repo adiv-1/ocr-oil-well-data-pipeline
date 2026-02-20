@@ -1,0 +1,230 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "Wade Federal 5300 41-30 98",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "Williams",
+      "township": "153N",
+      "range": "100W",
+      "section": "28",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": "33-053-06051",
+      "well_name": "Wade Federal 5300 41-30 9B",
+      "operator": "Oasis",
+      "county": "Mckenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": "Wade Federal 5300 41-30 9B",
+      "operator": "Oasis Petroleum North America",
+      "county": "Williams",
+      "township": "153N",
+      "range": "100W",
+      "section": "29/30/31/32",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": null,
+          "formation": "Bakken",
+          "top_ft": 11552.0,
+          "bottom_ft": 20265.0,
+          "stages": 50,
+          "total_volume": 171968.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": 37.0,
+          "lbs_proppant": 9289252.0,
+          "max_pressure_psi": 9310.0,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": [
+            {
+              "type": "40/70 White",
+              "volume": 1188022.0
+            },
+            {
+              "type": "20/40 White",
+              "volume": 6518120.0
+            },
+            {
+              "type": "20/40 RC",
+              "volume": 1395110.0
+            },
+            {
+              "type": "100 Mesh",
+              "volume": 188000.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": "28744",
+      "well_name": "Wade Federal 5300 41-30 9B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": "Wade Federal 5300 21-30 13B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "30",
+      "latitude": 48.022589,
+      "longitude": -103.360024,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": "33-053-06051",
+      "well_name": "Wade Federal 5300 41-30 #9B",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "30",
+      "latitude": 48.04101944,
+      "longitude": -103.60300556,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "28744",
+      "well_name": "Wade Federal 5300 41-30 98",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": "Wade Federal 5300 41-30 9B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "Wade Federal 5300 41-30 9B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "30",
+      "latitude": 48.03621666666666,
+      "longitude": -103.60311388888888,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "WADE FEDERAL 5300 41-30 9B",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "30",
+      "range": "100",
+      "section": "41-30 9B",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "Wade Federal 5300 41-30 9B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  }
+]
