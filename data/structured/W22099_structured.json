@@ -1,0 +1,604 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": "15623.1",
+      "well_name": "YUKON  5301 41-12T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": "22099",
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oas is Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": "Yukon 5301 4 1-12T",
+      "operator": "Oasis Petroleum North America",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "13 & 24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "08/31/2013",
+          "formation": "Bakken",
+          "top_ft": 11126.0,
+          "bottom_ft": 21220.0,
+          "stages": 36,
+          "total_volume": 100130.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": 39.0,
+          "lbs_proppant": 3649776.0,
+          "max_pressure_psi": 9294.0,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": [
+            {
+              "type": "100 Mesh",
+              "volume": 124804.0
+            },
+            {
+              "type": "40/70 White",
+              "volume": 1416922.0
+            },
+            {
+              "type": "20/40 Ceramic",
+              "volume": 2108050.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": "YUKON $394",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "tens",
+      "township": "153/N",
+      "range": "101|w",
+      "section": "41-127",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": "22099",
+      "well_name": "YUKON 530141-12T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LL",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "22099",
+      "well_name": "YUKON 5301 41-12T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LL",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": "22099",
+      "well_name": "YUKON 5301 41-12T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LL",
+      "county": "MCKENZIE",
+      "township": "12",
+      "range": "101",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": "22099",
+      "well_name": "YUKON 5301 41-12T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LL",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "12",
+      "latitude": 48.013333,
+      "longitude": -102.379167,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": "3310504981",
+      "well_name": "Larry 5301 44-128",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": [
+        "3305303609",
+        "3305304981",
+        "3305303911",
+        "3305303912",
+        "3305303936",
+        "3305304981",
+        "3305303937"
+      ],
+      "well_name": [
+        "Bray 530143-12H",
+        "Larry 530144-12B",
+        "Yukon 530141-12T",
+        "Achilles 530141-12B",
+        "Jefferies 530143-12B",
+        "Colville 530144-12T",
+        "Innoko 530143-12T"
+      ],
+      "operator": "Oasis Petroleum Inc.",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": "33-053-03911",
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": "33-053-03911",
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": "22099",
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": null,
+          "formation": "Three Forks",
+          "top_ft": 10820.0,
+          "bottom_ft": null,
+          "stages": null,
+          "total_volume": null,
+          "volume_units": null,
+          "treatment_type": "Fracture Treatment",
+          "acid_percent": null,
+          "lbs_proppant": null,
+          "max_pressure_psi": null,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": "22099",
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": "33-053-03911",
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "OASIS PETROLEUM NA LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": null,
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": "22099",
+      "well_name": "Yulcon 5301 41-12T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": 48.082183,
+      "longitude": -103.62835,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 22,
+    "data": {
+      "api_number": null,
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": null,
+      "township": "153 N",
+      "range": "101 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 23,
+    "data": {
+      "api_number": "33-053-03911",
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "OASIS PETROLEUM NA LLC",
+      "county": "McKenzie",
+      "township": "T153N",
+      "range": "R101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": null,
+          "formation": "Three Forks",
+          "top_ft": 10286.0,
+          "bottom_ft": 21276.0,
+          "stages": 36,
+          "total_volume": null,
+          "volume_units": null,
+          "treatment_type": "plug & perf",
+          "acid_percent": null,
+          "lbs_proppant": null,
+          "max_pressure_psi": 9000.0,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 24,
+    "data": {
+      "api_number": null,
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 25,
+    "data": {
+      "api_number": null,
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "401 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 26,
+    "data": {
+      "api_number": null,
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": 48.074472,
+      "longitude": -103.62389,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 27,
+    "data": {
+      "api_number": "22099",
+      "well_name": "Daphne 5301 41-128",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 28,
+    "data": {
+      "api_number": null,
+      "well_name": "Yukon 5301 41-12T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": 48.6823611,
+      "longitude": -103.6225,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 29,
+    "data": {
+      "api_number": "22099",
+      "well_name": "Daphne 5301 41-128",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 30,
+    "data": {
+      "api_number": "41-128",
+      "well_name": "DAPHNE 5301",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 31,
+    "data": {
+      "api_number": null,
+      "well_name": "DAPHNE",
+      "operator": "OASIS PETRO NO AMER",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 32,
+    "data": {
+      "api_number": null,
+      "well_name": "DAPHNE 5301 41-12B",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "12",
+      "range": "101",
+      "section": "153",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 33,
+    "data": {
+      "api_number": "41-128",
+      "well_name": "Daphne 6301",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "183 N",
+      "range": "101W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 34,
+    "data": {
+      "api_number": null,
+      "well_name": "DAPHNE 5301 41-12B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 35,
+    "data": {
+      "api_number": "05303911",
+      "well_name": "DAPHNE 5301 41-12B",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": 48.5,
+      "longitude": -103.372296,
+      "stimulation_events": []
+    }
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "Magnum 1-36-25H",
+      "operator": "Slawson Exploration Company, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": "GABRIEL 3-36-25H",
+      "operator": "SLAWSON EXPLORATION",
+      "county": "MCKENZIE COUNTY",
+      "township": "153N",
+      "range": "101W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": "33-____-22247",
+      "well_name": "MAGNUM 1-36-25H",
+      "operator": "Slawson Exploration Co., Inc.",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": "33-009-22247",
+      "well_name": "MAGNUM 1-36-25H BAKER",
+      "operator": "Stawson Exploration Co., Inc.",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": "22247",
+      "well_name": "MAGNUM 1-36-25H BAKER",
+      "operator": null,
+      "county": null,
+      "township": "153 N",
+      "range": "101 W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": "33-22247",
+      "well_name": "MAGNUM 1-36-25H",
+      "operator": "Slawson Exploration Co., Inc.",
+      "county": "McKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": "Magnum 1-36-25H",
+      "operator": "Slawson Exploration Company, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "36",
+      "latitude": 48.025025,
+      "longitude": -103.62779166666667,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": "MAGNUM  1-36-25H",
+      "operator": "SLAWSON EXPLORATION COMPANY, INC.",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "22247",
+      "well_name": "Magnum 1-36-25H",
+      "operator": "Slawson Exploration Company, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": "33-053-03943-00-00",
+      "well_name": "Magnum #1-36-25H",
+      "operator": null,
+      "county": "McKenzie",
+      "township": "T153N",
+      "range": "R101W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "MAGNUM  1-36-25H",
+      "operator": "SLAWSON EXPLORATION COMPANY, INC.",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "Ma num 1-36-25H",
+      "operator": "Slawson Ex !oration Com an , Inc.",
+      "county": "McKenzie",
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "Magnum 1-36-25H",
+      "operator": "Slawson Exploration Company, Inc.",
+      "county": "McKenzie",
+      "township": "25",
+      "range": "95",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "MAGNUM  1-36-25H",
+      "operator": "SLAWSON EXPLORATION COMPANY, INC.",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "MAGNUM #1-36-25H",
+      "operator": "SLAWSON EXPLORATION",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": "33-053-03943-0000",
+      "well_name": "MAGNUM #1-36-25H",
+      "operator": "SLAWSON EXPLORATION CO INC",
+      "county": "Mckenzie County",
+      "township": "153N",
+      "range": "101W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": "Magaum 1-36-25H",
+      "operator": "Slawson Exploration Company, Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": null,
+      "well_name": "Magnum 1-36-25H",
+      "operator": "Slawson Exploration Company, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": null,
+      "well_name": "Magrum 36251",
+      "operator": "Slawson Exptoration Company, Inc.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": null,
+      "well_name": "Magnum 1-36-25H",
+      "operator": "Slawson Exploration Company, Inc.",
+      "county": "McKenzie County",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "36",
+      "latitude": 48.022917,
+      "longitude": -103.623611,
+      "stimulation_events": [
+        {
+          "date_stimulated": "3/30/3012",
+          "formation": "Middle Bakken",
+          "top_ft": 11482.0,
+          "bottom_ft": 20700.0,
+          "stages": 32,
+          "total_volume": 38498.0,
+          "volume_units": "Barrals",
+          "treatment_type": "Sand Frac",
+          "acid_percent": 36.7,
+          "lbs_proppant": 264720.0,
+          "max_pressure_psi": 6790.0,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": [
+            {
+              "type": "100 Mesh Sand",
+              "volume": 264720.0
+            },
+            {
+              "type": "20/40 Sand",
+              "volume": 960580.0
+            },
+            {
+              "type": "18/40 Versalite",
+              "volume": 1017220.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": "33-053-03043",
+      "well_name": "Magnum 1-36-25H",
+      "operator": "Slawson Exploration Company, Inc",
+      "county": "Mckenzie County",
+      "township": "153N",
+      "range": "101W",
+      "section": "36",
+      "latitude": 48.025083,
+      "longitude": -103.626692,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 22,
+    "data": {
+      "api_number": "134475",
+      "well_name": "MAGNUM #1-36-25H",
+      "operator": "Slawson Exploration Company, Inc.",
+      "county": null,
+      "township": "153N",
+      "range": "101W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 23,
+    "data": {
+      "api_number": null,
+      "well_name": "MAGNUM 1-36-25H",
+      "operator": "SLAWSON EXPLORATION COMPANY, INC.",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 24,
+    "data": {
+      "api_number": null,
+      "well_name": "MAGNUM 1-36-25H",
+      "operator": "SLAWSON EXPLORATION COMPANY, INC.",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "36",
+      "latitude": 47.33,
+      "longitude": -103.372,
+      "stimulation_events": []
+    }
+  }
+]

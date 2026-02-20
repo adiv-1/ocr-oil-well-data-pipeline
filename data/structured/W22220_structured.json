@@ -1,0 +1,228 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": "3305303609",
+      "well_name": "Bray 530143-12H",
+      "operator": "Oasis Petroleum Inc.",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": "Jefferies 5301 43-12B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "Baker",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": "633142",
+      "well_name": "IGFFERIES",
+      "operator": "Dasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "12",
+      "range": "101 W",
+      "section": "126 SWSE",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": "JEFFERIES 5301",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "22 & 24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "Feb. 2012",
+          "formation": "Bement",
+          "top_ft": 83063.0,
+          "bottom_ft": null,
+          "stages": null,
+          "total_volume": null,
+          "volume_units": "Barrels",
+          "treatment_type": "Saw Frac",
+          "acid_percent": 46.0,
+          "lbs_proppant": 4688424.0,
+          "max_pressure_psi": 475.0,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": null,
+      "well_name": "JeHeries $301 43-128",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": "33-053-03912",
+      "well_name": "Achilles 5301 41-12B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": "Jefferies 5301 43-12B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "33-053-03936",
+      "well_name": "Jefferies 5301 43-12B",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": "Jefferies 5301 43-128 Atter",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "Jefferies 5301 43-128",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "Baker",
+      "township": "153N",
+      "range": "101W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "Jefferies 5301 43-12B",
+      "operator": "Oasis Petroleum Inc.",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "JEFFERIES 5301 43-12B",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "JEFFERIES 5301 43-12B",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": 48.05,
+      "longitude": -103.365036,
+      "stimulation_events": []
+    }
+  }
+]
