@@ -59,5 +59,255 @@
       "longitude": null,
       "stimulation_events": []
     }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": "Larry 5301",
+      "operator": null,
+      "county": null,
+      "township": "T153N",
+      "range": "R101W",
+      "section": "13 & 24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": "Chaves",
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "09/08/2012",
+          "formation": "Bakken",
+          "top_ft": 14080.0,
+          "bottom_ft": 21140.0,
+          "stages": 36,
+          "total_volume": 80480.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": 39.5,
+          "lbs_proppant": 9705.0,
+          "max_pressure_psi": null,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": [
+            {
+              "type": "40/70 sand",
+              "volume": 1401330.0
+            },
+            {
+              "type": "30/70 sand",
+              "volume": 2189200.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": "22740",
+      "well_name": "LARRY $491",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "Mountrail",
+      "township": "152N",
+      "range": "104W",
+      "section": "36",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "22740",
+      "well_name": "LARRY 5301 44-12B",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": "Larry 5301 44-12B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "Baker",
+      "township": "153 N",
+      "range": "104 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "Larry 5301 44-128",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "Baker",
+      "township": "153N",
+      "range": "101W",
+      "section": "8",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "Larry 5301 44-12B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101 W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": "33-053-04071",
+      "well_name": "Larry 5301 44-12B",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "24-410UR PRODUCTION RATE",
+      "operator": null,
+      "county": "Mountrail",
+      "township": "153N",
+      "range": null,
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum North America LLC",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": null,
+      "well_name": "LARRY 5301 44-12B",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "12",
+      "range": "101",
+      "section": "153",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": "Larey 6301 44-128",
+      "operator": "Oasis Petroloum North America LLC",
+      "county": "McKenzie",
+      "township": "483N",
+      "range": null,
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": null,
+      "well_name": "LARRY 5301 44-12B",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "12",
+      "latitude": 48.04,
+      "longitude": -103.36,
+      "stimulation_events": []
+    }
   }
 ]

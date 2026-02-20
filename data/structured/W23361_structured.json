@@ -1,0 +1,272 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "Atlanta 12-6H",
+      "operator": "Continental Resources, Inc.",
+      "county": "Williams",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "6",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": "Atlanta #12-6H",
+      "operator": "Continental Resources, Inc.",
+      "county": "Williams",
+      "township": "153N",
+      "range": "101 W",
+      "section": "6",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": "23361",
+      "well_name": "Atlanta 12-6H",
+      "operator": "Continental Resources",
+      "county": "Williams",
+      "township": "153 N",
+      "range": "101 w",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": "23361",
+      "well_name": "AUmta 12-6H",
+      "operator": "Continental Resources, Inc.",
+      "county": "Williams",
+      "township": "153N",
+      "range": "101W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "CLR",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "11/12/2014",
+          "formation": "3 Forks",
+          "top_ft": 10895.0,
+          "bottom_ft": 19500.0,
+          "stages": 29,
+          "total_volume": 53948.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": null,
+          "lbs_proppant": 3098438.0,
+          "max_pressure_psi": 8528.0,
+          "max_rate_bbl_per_min": 30.0,
+          "proppant_breakdown": [
+            {
+              "type": "40/70 mesh",
+              "volume": 127023.0
+            },
+            {
+              "type": "20/40 sand",
+              "volume": 2085421.0
+            },
+            {
+              "type": "20/40 ceramic",
+              "volume": 885994.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": null,
+      "well_name": "Atlanta 12-6H",
+      "operator": "Continental Resources, Inc.",
+      "county": "Williams",
+      "township": "153N",
+      "range": "101 W",
+      "section": "6",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": "33-105-02721",
+      "well_name": "Atlanta 12-6H",
+      "operator": "Continental Resources, Inc.",
+      "county": "Williams & McKenzie Co.",
+      "township": "153N",
+      "range": "101W",
+      "section": "6",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": "33-105-02721",
+      "well_name": "Atlanta 12-6H",
+      "operator": "Continentail Resources",
+      "county": "Williams",
+      "township": "153N",
+      "range": "101W",
+      "section": "6",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "33-105-02721",
+      "well_name": "Atlanta 12",
+      "operator": "Continental Resources, Inc.",
+      "county": "Williams",
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": "33-105-02721",
+      "well_name": "Atlanta 12-6H",
+      "operator": "Continental Resources, Inc.",
+      "county": "Williams",
+      "township": "153N",
+      "range": "101W",
+      "section": "06",
+      "latitude": 48.0633649,
+      "longitude": -103.4340384,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "Atlanta 12-6H",
+      "operator": "Continental Resources, Inc.",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": null,
+          "formation": null,
+          "top_ft": null,
+          "bottom_ft": null,
+          "stages": null,
+          "total_volume": null,
+          "volume_units": null,
+          "treatment_type": "Fracture Treatment",
+          "acid_percent": null,
+          "lbs_proppant": null,
+          "max_pressure_psi": 9960.0,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "ATLANTA 12-6H",
+      "operator": "CONTINENTAL RESOURCES, INC.",
+      "county": "WILLIAMS",
+      "township": "153",
+      "range": "101",
+      "section": "6",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "Atlanta 12-6H",
+      "operator": "Continental Resources, Inc.",
+      "county": "Williams",
+      "township": "153N",
+      "range": "101W",
+      "section": "6",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "ATLANTA 12-6H",
+      "operator": "CONTINENTAL RESOURCES, INC.",
+      "county": "Williams",
+      "township": "153N",
+      "range": "101W",
+      "section": "6",
+      "latitude": 33.65,
+      "longitude": -103.434038,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "ATLANTA 1-6H",
+      "operator": "CONTINENTAL RESOURCES, INC.",
+      "county": "WILLIAMS",
+      "township": "153N",
+      "range": "101W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  }
+]

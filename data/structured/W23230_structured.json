@@ -1,0 +1,256 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "ASH FEDERAL  5300 11-18T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "100",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": "23230",
+      "well_name": "Ash Federal 5300 11-18T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": "Ash Federal 5300 11-18T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "17 & 18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "10/26/2012",
+          "formation": "Three Forks",
+          "top_ft": 11101.0,
+          "bottom_ft": 20482.0,
+          "stages": 36,
+          "total_volume": 92216.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": null,
+          "lbs_proppant": 3700348.0,
+          "max_pressure_psi": 9214.0,
+          "max_rate_bbl_per_min": 42.2,
+          "proppant_breakdown": [
+            {
+              "type": "100 mesh",
+              "volume": 144777.0
+            },
+            {
+              "type": "40170 sand",
+              "volume": 1426577.0
+            },
+            {
+              "type": "20/40 ceramic",
+              "volume": 2128994.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": "23230",
+      "well_name": "ASH FEDERAL 5300",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "WILLIAMS",
+      "township": "18T",
+      "range": "100W",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": "23230",
+      "well_name": "ASH FEDERAL $300 11-18T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LL",
+      "county": "MCKENZIE",
+      "township": "183 N",
+      "range": "00 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": "Ash Faderal $300 11-18T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "LOT1",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": null,
+      "well_name": "Ash Federal 5300 11-187",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": "Ash Federal 5300 11-18T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": "33-053-04211",
+      "well_name": "Ash Federal 5300 11-18T",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "Ash Federal 5300 11-18T",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "18",
+      "latitude": 48.706944,
+      "longitude": -103.502522,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "Ash Federal 5300 11-18T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "ASH FEDERAL 5300 11-18T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "18",
+      "range": "100",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "ASH FEDERAL 5300 11-18T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "18",
+      "latitude": 48.04,
+      "longitude": -103.360972,
+      "stimulation_events": []
+    }
+  }
+]
