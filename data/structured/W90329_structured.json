@@ -1,0 +1,332 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "EARSON SWD 5301 12-24",
+      "operator": "oasis PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "152",
+      "range": "93",
+      "section": "12",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": "CARSON SWD 5301",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "Mckenzie",
+      "township": "12-24 N",
+      "range": "153 401",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": "Carson SWD 5301 12-24",
+      "operator": "Oasis Petroleum North America",
+      "county": "McKenzie",
+      "township": "153",
+      "range": "101 w",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": "33-053-90329",
+      "well_name": "Carson SWD 5301 12-24",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": "90329",
+      "well_name": "Carson SWD 5301 12-24",
+      "operator": "Oasis Petroleum North America",
+      "county": "McKenzie",
+      "township": "153",
+      "range": "101 w",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": null,
+      "well_name": "CARSON SWD 5301 12-24",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": "90329",
+      "well_name": "lcARSON SWD 5301 12-24",
+      "operator": "f oASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "101",
+      "section": "F",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": "90329",
+      "well_name": "Carson SWD 5301 12-24",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 w",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "Carson SWD 5301 12-24",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "T153N",
+      "range": "R1O01W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": "W0437S0819D",
+      "well_name": "Carson SWD 5301",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "153.N",
+      "range": "101 W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "Joferon #530",
+      "operator": null,
+      "county": "Mckenzie",
+      "township": "15N",
+      "range": "95W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "Bray #5301 43-12H",
+      "operator": null,
+      "county": "MeKenzie",
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": "403",
+      "well_name": "Garson SWD 5301",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": null,
+      "well_name": "Carson SWD 5301 12-24",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": null,
+      "well_name": "Carson SWO 5301",
+      "operator": "Oasis Petroleum North Amarica LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": null,
+      "well_name": "CARSON SWD 5301 12-24",
+      "operator": "OASIS PETROLEUM NORTIE AMERICA LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "101W",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": null,
+      "well_name": "CARSON SWD 5301 12-24",
+      "operator": "OASIS PETROLEUM NORTH AMERICA, LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "101 W",
+      "section": "24",
+      "latitude": 48.038789,
+      "longitude": -103.366605,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 22,
+    "data": {
+      "api_number": null,
+      "well_name": "Carson SWD 5301 12-24",
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  }
+]

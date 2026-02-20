@@ -1,0 +1,366 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "Gramma Federal 5300",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "34",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "OASIS PETRO NORTILT AMERICA",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS FEDERAL 5300",
+      "operator": null,
+      "county": "MCKENZIE COUNTY",
+      "township": "153N",
+      "range": "100W",
+      "section": "26",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": "29317",
+      "well_name": "FEDERAL 53 004",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "Williams",
+      "township": "153",
+      "range": "100",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": "Gramma Federal 5300 41-31 13T",
+      "operator": "Oasis Petroleum North America",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31/32",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "06/26/2015",
+          "formation": "Three Forks",
+          "top_ft": 11228.0,
+          "bottom_ft": 20545.0,
+          "stages": 50,
+          "total_volume": 170334.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": null,
+          "lbs_proppant": 9246908.0,
+          "max_pressure_psi": 8985.0,
+          "max_rate_bbl_per_min": 10.4,
+          "proppant_breakdown": [
+            {
+              "type": "40/70 White",
+              "volume": 1185500.0
+            },
+            {
+              "type": "20/40 White",
+              "volume": 6423398.0
+            },
+            {
+              "type": "20/40 Resin Coated",
+              "volume": 1396960.0
+            },
+            {
+              "type": "100 Mesh White",
+              "volume": 241050.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": "29317",
+      "well_name": "GRAMMA FEDERAL 5300 41-31 13T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LL",
+      "county": "MCKENZIE",
+      "township": "31",
+      "range": "100 W",
+      "section": "LOT4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "29317",
+      "well_name": "Gramma Federal 5300 41-3113T2",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "24",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": "41-3113T",
+      "well_name": "Gramma Federal 5300",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": null,
+          "formation": "Bakken",
+          "top_ft": null,
+          "bottom_ft": null,
+          "stages": null,
+          "total_volume": null,
+          "volume_units": null,
+          "treatment_type": "Fracture Treatment",
+          "acid_percent": null,
+          "lbs_proppant": null,
+          "max_pressure_psi": 11220,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": "33-053-06232",
+      "well_name": "Gramma Federal 5300 41-3113T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "OASIS PETRO NO AMER",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": "33-053-06232",
+      "well_name": "Gramma Federal 5300 41-31 13T2",
+      "operator": "Oasis Petroleum LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": 48.02634666666666,
+      "longitude": -103.60281944444444,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": "33-053-06232",
+      "well_name": "Gramma Federal 5300 41-31 13T2",
+      "operator": "Oasis Petroleum LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": 48.0261333,
+      "longitude": -103.6027917,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "Gramma Federal 5300 41-3113T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "31",
+      "latitude": 48.02447,
+      "longitude": -103.56779,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": "07-091-03113-0000",
+      "well_name": "Gramma Federal 5300 41-3113T2",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": "GRAMMA FEDERAL 5300 41-3113T2",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "31",
+      "range": "100",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": "33-053-0343@",
+      "well_name": "Gramma Federal 5300 41-3113T2",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": "41-3113T2",
+      "well_name": "Gramma Federal 5300",
+      "operator": "Oasis",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "32",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": null,
+      "well_name": "GRAMMA FEDERAL",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": 34.88,
+      "longitude": -103.36,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": null,
+      "well_name": "GRAMMA FEDERAL 5300 41-31 1372",
+      "operator": "OASIS PETROLEUM NORTH AMERICA, LLC",
+      "county": "MCKENZIE COUNTY",
+      "township": "1153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  }
+]

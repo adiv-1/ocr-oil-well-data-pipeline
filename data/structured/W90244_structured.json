@@ -1,0 +1,408 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": "90244",
+      "well_name": "Buck Shot SWD 5300 31-31",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": "BUCK SHOT SWD 5300 31-31",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": "90244",
+      "well_name": "puck SHOT SWD 5300 31-31",
+      "operator": "Joasis PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "153",
+      "range": "100",
+      "section": "E 1",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": "Ziggy SWD 5300 32-2 BWL SWD 5201 11-3 Buck Shot SWD 5300 31-31",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "Williams County",
+      "township": "153N",
+      "range": "100W",
+      "section": "2",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Bris Petroleum North America LLC",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": null,
+      "well_name": "Buck Shot SWD 5300 31-31",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "53N",
+      "range": "1W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": "90244",
+      "well_name": "BUCK SHOT SWD 5300 31-31",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "07/20/2013",
+          "formation": "Dakota",
+          "top_ft": 5625.0,
+          "bottom_ft": 6150.0,
+          "stages": 8,
+          "total_volume": 9000.0,
+          "volume_units": "Gallons",
+          "treatment_type": "acido/o",
+          "acid_percent": 100.0,
+          "lbs_proppant": null,
+          "max_pressure_psi": null,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": "90244",
+      "well_name": "lsucK SHOT SWD 5300 31-31",
+      "operator": "foASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "1153",
+      "range": "1100",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": "90244",
+      "well_name": "Buck Shot SWD 5300 31-31",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "21",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": "33-053-90244",
+      "well_name": "Buck Shot SWD 5300 31-31H",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "T153N",
+      "range": "R100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": "90244",
+      "well_name": "Buck Shot SWD 5300 31-31",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "17",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": "33-053-90244",
+      "well_name": "Buck Shot SWD 5300 31-31H",
+      "operator": "OASIS PETROLEUM INC.",
+      "county": "McKenzie",
+      "township": "T153N",
+      "range": "R100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": null,
+      "well_name": "Buck Shot SWD 5300 31-31H",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": null,
+      "well_name": "Buck Shot SWD 5300 31-31",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie County",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": "Buck Shot SWD 5300 31-31H",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "31",
+      "latitude": 48.02,
+      "longitude": -103.359,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": null,
+      "well_name": "Buck Shot SWD 5300",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": null,
+      "township": "153N",
+      "range": "100W",
+      "section": "31-31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": null,
+      "well_name": "Buck Shot SWD 5300 31-31",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": null,
+      "well_name": "Buck Shot SWD 5300 31-31",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "1S3N",
+      "range": "10QW",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": "W0346S0820D",
+      "well_name": "Buck Shot SWD #5300",
+      "operator": "Qasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "3t",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 22,
+    "data": {
+      "api_number": "G-5-2172",
+      "well_name": "Buck Shot SWD \u00a7300",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "34",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 23,
+    "data": {
+      "api_number": null,
+      "well_name": "Buck Shot SWD 5300 31-31",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 24,
+    "data": {
+      "api_number": "33-053-03413",
+      "well_name": "Wade Federal 5300 2J-30H",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 25,
+    "data": {
+      "api_number": null,
+      "well_name": "Buck Shot SWD $300",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "453N",
+      "range": "100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 26,
+    "data": {
+      "api_number": "33-053-90244",
+      "well_name": "BUCK SHOT SWD 5300 31-31",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": 48.7,
+      "longitude": -103.58,
+      "stimulation_events": []
+    }
+  }
+]

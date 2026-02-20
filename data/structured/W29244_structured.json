@@ -1,0 +1,370 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "Kline Federal #5300 11-18 3T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum North America",
+      "county": "McKenzie",
+      "township": "153",
+      "range": "100 w",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "07/17/2015",
+          "formation": "Three Forks",
+          "top_ft": 11101.0,
+          "bottom_ft": 20835.0,
+          "stages": 36,
+          "total_volume": 208220.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": 76.0,
+          "lbs_proppant": 4183070.0,
+          "max_pressure_psi": 9386.0,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": [
+            {
+              "type": "100 Mesh White",
+              "volume": 301340.0
+            },
+            {
+              "type": "40170 White",
+              "volume": 1556480.0
+            },
+            {
+              "type": "30/50 White",
+              "volume": 1742280.0
+            },
+            {
+              "type": "30/50 Resin Coated",
+              "volume": 511100.0
+            },
+            {
+              "type": "20/40 Resin Coated",
+              "volume": 71870.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": "29244",
+      "well_name": "Kline Federal 530011-18 3T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": "KLINE FEDERAL 5300 11-18 3T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "Mckenzie",
+      "township": "11",
+      "range": "100",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": "29244",
+      "well_name": "KLINE FEDERAL 530011-18 3T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LL",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "29244",
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "LOT 1",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "Jul 14,2015",
+          "formation": "Bakken",
+          "top_ft": null,
+          "bottom_ft": null,
+          "stages": null,
+          "total_volume": null,
+          "volume_units": null,
+          "treatment_type": "Fracture Treatment",
+          "acid_percent": null,
+          "lbs_proppant": null,
+          "max_pressure_psi": 11220.0,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": []
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum North America lLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "17",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": "33-053-06225-00-00",
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": "33-053-06225",
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "18",
+      "latitude": 48.07919166666667,
+      "longitude": -103.60291944444444,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": "33-053-06225",
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "18",
+      "latitude": 48.07919,
+      "longitude": -103.60278,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "Kline. Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": null,
+      "township": "153 N",
+      "range": "100 W",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": "1qJ.lfLf",
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": "29244",
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": "KLINE FEDERAL 5300 11-18 3T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "18",
+      "range": "100",
+      "section": "11",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": null,
+      "well_name": "KLINE FEDERAL 5300 11-18 3T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": null,
+      "well_name": "KLINE FEDERAL 5300 11-18 3T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "McKenzie County",
+      "township": "153N",
+      "range": "100W",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": "29244",
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "McKenzie",
+      "township": "153",
+      "range": "100",
+      "section": "18",
+      "latitude": 48.044509,
+      "longitude": -103.361059,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": null,
+      "well_name": "Kline Federal 5300 11-18 3T",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "18",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  }
+]
