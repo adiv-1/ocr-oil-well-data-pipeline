@@ -1,0 +1,245 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": "33-053-05998",
+      "well_name": "Wade Federal 5300 41-30 7T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": "Wade Federal 5300 41-30 7T",
+      "operator": "Oasis Petroleum North America",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "04/24/2015",
+          "formation": "Three Forks",
+          "top_ft": 11167.0,
+          "bottom_ft": 20517.0,
+          "stages": 36,
+          "total_volume": 134353.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": 39.0,
+          "lbs_proppant": 3973130.0,
+          "max_pressure_psi": 9218.0,
+          "max_rate_bbl_per_min": null,
+          "proppant_breakdown": [
+            {
+              "type": "40/70 White",
+              "volume": 1437920.0
+            },
+            {
+              "type": "20/40 Ceramic",
+              "volume": 1859940.0
+            },
+            {
+              "type": "20/40 Resin Coated",
+              "volume": 605340.0
+            },
+            {
+              "type": "100 Mesh White",
+              "volume": 159020.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": null,
+      "well_name": "WADE FEDERAL 5300 41-30 7T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": null,
+      "township": "7T",
+      "range": "100",
+      "section": "41-30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": "28557",
+      "well_name": "WADE FEDERAL 5300 41-30 7T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LL",
+      "county": "MCKENZIE",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": "28557",
+      "well_name": "Wade Federal 5300 41-30",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "LOT4",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": "33-053-05995",
+      "well_name": "Wade Federal 5300 31-30 2B",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "28976",
+      "well_name": "Wade Federal 5300 21-30 12T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "30",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": "Wade Federal 5300 41-30 4T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "30",
+      "latitude": 48.022589,
+      "longitude": -103.360024,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": "33-053-05998",
+      "well_name": "Wade Federal 5300 41-30 #7T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "30",
+      "latitude": 48.0412,
+      "longitude": -103.60300556,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "Wade Federal 5300 41-30 7T",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "30",
+      "latitude": 48.03836,
+      "longitude": -103.6028,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "WADE FEDERAL 5300 41-30 7T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "30",
+      "range": "100",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": null,
+      "well_name": "WADE FEDERAL 5300 41-30 7T",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "30",
+      "latitude": 48.02,
+      "longitude": -103.361082,
+      "stimulation_events": []
+    }
+  }
+]

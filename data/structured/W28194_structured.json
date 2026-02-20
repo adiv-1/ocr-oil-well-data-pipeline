@@ -1,0 +1,466 @@
+[
+  {
+    "segment_id": 1,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS FEDERAL 5300",
+      "operator": "Oasis Petroleum North America LUC",
+      "county": "McKenzie",
+      "township": "58",
+      "range": "100",
+      "section": "21-34",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 2,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": "McKenzle",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "25",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 3,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 4,
+    "data": {
+      "api_number": "28194",
+      "well_name": "Lewis Federal 5300 21-31 5B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": [
+        {
+          "date_stimulated": "07/16/2019",
+          "formation": "Bakken",
+          "top_ft": 1180.0,
+          "bottom_ft": 20791.0,
+          "stages": 35,
+          "total_volume": 323544.0,
+          "volume_units": "Barrels",
+          "treatment_type": "Sand Frac",
+          "acid_percent": null,
+          "lbs_proppant": 5990853.0,
+          "max_pressure_psi": 8955.0,
+          "max_rate_bbl_per_min": 520.0,
+          "proppant_breakdown": [
+            {
+              "type": "100 mesh",
+              "volume": 3556863.0
+            },
+            {
+              "type": "40/70 VVhite",
+              "volume": 1495810.0
+            },
+            {
+              "type": "40/70 CRC",
+              "volume": 938180.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "segment_id": 5,
+    "data": {
+      "api_number": "28194",
+      "well_name": "LEWIS FEDERAL 5300 21-31 5B",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LL",
+      "county": "MCKENZIE",
+      "township": "31N",
+      "range": "100W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 6,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 5300",
+      "operator": "Gasis Petroleum North America",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31/32",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 7,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": null,
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 8,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 5300 21-31 5B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "T153N",
+      "range": "R100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 9,
+    "data": {
+      "api_number": "33-053-05849",
+      "well_name": "Lewis Federal 5300 21-31 5B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 10,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 5300 21-31 5B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 11,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 5300",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "34",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 12,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 5300 21-31 5B",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 13,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 5300 31-31 108",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "34",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 14,
+    "data": {
+      "api_number": "28194",
+      "well_name": "Lewis Federal 5300-ii-~1 SB",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 15,
+    "data": {
+      "api_number": "28194",
+      "well_name": "LEWIS FEDERAL 5300",
+      "operator": "OASIS PETRO NO AMER",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 16,
+    "data": {
+      "api_number": "28194",
+      "well_name": "LEWIS FEDERAL 5300",
+      "operator": "OASIS PETRO NO AMER",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "L00W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 17,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 8300",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 18,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 5300 31-3110B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 19,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS FEDERAL 5300",
+      "operator": "OASIS PETRO NO AMER",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 20,
+    "data": {
+      "api_number": "28194",
+      "well_name": "Lewis Federal 5300 31-3110B",
+      "operator": "Oasis Petroleum North America LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 21,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 5300 21-31 GB",
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": "21",
+      "range": "31",
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 22,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 5300 31-31 lOB",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 23,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS FEDERAL 5300",
+      "operator": "OASIS PETRO NO AMER.",
+      "county": "MCKENZIE",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 24,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS FEDERAL 5300 31-31 lOB",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "MCKENZIE",
+      "township": "31",
+      "range": "100",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 25,
+    "data": {
+      "api_number": "33-053-03433",
+      "well_name": "Lewis Federal 5300",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 W",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 26,
+    "data": {
+      "api_number": null,
+      "well_name": "Lewis Federal 5300 31-31108",
+      "operator": "Oasis Petroleum North America, LLC",
+      "county": "McKenzie",
+      "township": "153 N",
+      "range": "100 w",
+      "section": "31",
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 27,
+    "data": {
+      "api_number": null,
+      "well_name": "LEWIS FEDERAL 5300 31-31 10B",
+      "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": 48.48,
+      "longitude": -103.1133,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 28,
+    "data": {
+      "api_number": "23350",
+      "well_name": "Gramma Federal 5300 41-317",
+      "operator": "Oasis Petroleum",
+      "county": "McKenzie",
+      "township": "153N",
+      "range": "100W",
+      "section": "31",
+      "latitude": 48.0178,
+      "longitude": -103.6028,
+      "stimulation_events": []
+    }
+  },
+  {
+    "segment_id": 29,
+    "data": {
+      "api_number": null,
+      "well_name": null,
+      "operator": "Oasis Petroleum",
+      "county": null,
+      "township": null,
+      "range": null,
+      "section": null,
+      "latitude": null,
+      "longitude": null,
+      "stimulation_events": []
+    }
+  }
+]
