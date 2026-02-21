@@ -176,7 +176,7 @@ Return ONLY valid JSON.
 """
 
     response = client.models.generate_content(
-        model="gemma-3-27b-it",
+        model="gemini-3-flash-preview",
         contents=prompt,
         config={
             "response_mime_type": "application/json",
