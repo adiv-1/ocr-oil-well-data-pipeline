@@ -7,7 +7,7 @@ from PIL import Image
 
 base = Path(__file__).resolve().parent.parent
 input_dir = base / "data" / "original_pdfs"
-output_dir = base / "data" / "ocr_pdfs"
+output_dir = base / "data" / "ocr_json"
 
 output_dir.mkdir(parents=True, exist_ok=True)
 

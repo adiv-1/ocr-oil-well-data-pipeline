@@ -3,7 +3,7 @@ import re
 from pathlib import Path
 
 base = Path(__file__).resolve().parent.parent
-INPUT = base / "data" / "ocr_pdfs"
+INPUT = base / "data" / "ocr_json"
 OUT = base / "data" / "segments"
 OUT.mkdir(parents=True, exist_ok=True)
 

@@ -1,0 +1,81 @@
+{
+  "api_number": "33-105-90258",
+  "well_name": "Atlanta #1 SWD",
+  "operator": "CONTINENTAL RESOURCES, INC.",
+  "county": "Williams",
+  "township_range": "153 N, 101 W",
+  "latitude": 48.063599,
+  "longitude": -103.435457,
+  "stimulation_events": [
+    {
+      "date_stimulated": "3/1/2013",
+      "formation": "Dakota",
+      "top_ft": 5720.0,
+      "bottom_ft": 5760.0,
+      "stages": 1,
+      "total_volume": 6000.0,
+      "volume_units": "Gallons",
+      "acid_percent": 15.0,
+      "lbs_proppant": null,
+      "max_pressure_psi": null,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    },
+    {
+      "date_stimulated": "3/1/2013",
+      "formation": "Dakota",
+      "top_ft": 5590.0,
+      "bottom_ft": 5606.0,
+      "stages": 1,
+      "total_volume": 2500.0,
+      "volume_units": "Gallons",
+      "acid_percent": 15.0,
+      "lbs_proppant": null,
+      "max_pressure_psi": 2980.0,
+      "max_rate_bbl_per_min": 6.4,
+      "proppant_breakdown": []
+    },
+    {
+      "date_stimulated": "3/2/2013",
+      "formation": "Dakota",
+      "top_ft": 5414.0,
+      "bottom_ft": 5438.0,
+      "stages": 1,
+      "total_volume": 4000.0,
+      "volume_units": "Gallons",
+      "acid_percent": 15.0,
+      "lbs_proppant": 0.0,
+      "max_pressure_psi": 3000.0,
+      "max_rate_bbl_per_min": 7.0,
+      "proppant_breakdown": []
+    },
+    {
+      "date_stimulated": null,
+      "formation": "Dakota",
+      "top_ft": 5450.0,
+      "bottom_ft": 5900.0,
+      "stages": null,
+      "total_volume": null,
+      "volume_units": null,
+      "acid_percent": null,
+      "lbs_proppant": null,
+      "max_pressure_psi": null,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    },
+    {
+      "date_stimulated": null,
+      "formation": "Dakota",
+      "top_ft": 4927.0,
+      "bottom_ft": 5900.0,
+      "stages": null,
+      "total_volume": null,
+      "volume_units": null,
+      "acid_percent": null,
+      "lbs_proppant": null,
+      "max_pressure_psi": null,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    }
+  ]
+}

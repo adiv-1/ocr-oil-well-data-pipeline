@@ -1,0 +1,38 @@
+{
+  "api_number": "33-105-04981",
+  "well_name": "Innoko 5301 43-12T",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153 N, 101 W",
+  "latitude": 48.68225,
+  "longitude": -103.60692,
+  "stimulation_events": [
+    {
+      "date_stimulated": "09/07/2013",
+      "formation": "Bakken",
+      "top_ft": 11117.0,
+      "bottom_ft": 21122.0,
+      "stages": 36,
+      "total_volume": 90354.0,
+      "volume_units": "Barrels",
+      "acid_percent": 37.7,
+      "lbs_proppant": 3765029.0,
+      "max_pressure_psi": 8782.0,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": [
+        {
+          "type": "100 mesh",
+          "volume": 128174.0
+        },
+        {
+          "type": "40170 White",
+          "volume": 1458059.0
+        },
+        {
+          "type": "20/40 Ceramic",
+          "volume": 2178796.0
+        }
+      ]
+    }
+  ]
+}

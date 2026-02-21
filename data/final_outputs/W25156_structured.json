@@ -1,0 +1,52 @@
+{
+  "api_number": "33-053-04852",
+  "well_name": "Columbus Federal 1-16H",
+  "operator": "CONTINENTAL RESOURCES, INC.",
+  "county": "McKenzie",
+  "township_range": "153N, 101W",
+  "latitude": 48.06944,
+  "longitude": -103.66972,
+  "stimulation_events": [
+    {
+      "date_stimulated": "7/7/2013",
+      "formation": "Bakken",
+      "top_ft": 11386.0,
+      "bottom_ft": 21276.0,
+      "stages": 30,
+      "total_volume": 48693.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 2686987.0,
+      "max_pressure_psi": 7682.0,
+      "max_rate_bbl_per_min": 30.0,
+      "proppant_breakdown": [
+        {
+          "type": "40/70 mesh",
+          "volume": 156552.0
+        },
+        {
+          "type": "20/40 sand",
+          "volume": 1742173.0
+        },
+        {
+          "type": "20/40 Resin",
+          "volume": 788262.0
+        }
+      ]
+    },
+    {
+      "date_stimulated": "8/21/2013",
+      "formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stages": null,
+      "total_volume": null,
+      "volume_units": null,
+      "acid_percent": null,
+      "lbs_proppant": null,
+      "max_pressure_psi": null,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    }
+  ]
+}

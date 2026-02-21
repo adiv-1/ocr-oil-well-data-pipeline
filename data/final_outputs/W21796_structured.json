@@ -1,0 +1,38 @@
+{
+  "api_number": "33-053-03846",
+  "well_name": "DAHL FEDERAL 2-15H",
+  "operator": "SM ENERGY COMPANY",
+  "county": "McKenzie",
+  "township_range": "153 N, 101 W",
+  "latitude": 48.44925,
+  "longitude": -103.392015,
+  "stimulation_events": [
+    {
+      "date_stimulated": "05/19/2012",
+      "formation": "Bakken",
+      "top_ft": 19956.0,
+      "bottom_ft": 20924.0,
+      "stages": 20,
+      "total_volume": 77312.0,
+      "volume_units": "Barrels",
+      "acid_percent": 57.0,
+      "lbs_proppant": 3053400.0,
+      "max_pressure_psi": 8844.0,
+      "max_rate_bbl_per_min": 57.0,
+      "proppant_breakdown": [
+        {
+          "type": "20/40 sand",
+          "volume": 1992090.0
+        },
+        {
+          "type": "30/70 sand",
+          "volume": 97400.0
+        },
+        {
+          "type": "40/70 sand",
+          "volume": 964000.0
+        }
+      ]
+    }
+  ]
+}

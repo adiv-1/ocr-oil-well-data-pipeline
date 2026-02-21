@@ -1,0 +1,42 @@
+{
+  "api_number": "33-053-06012",
+  "well_name": "Chalmers Wade Federal 5301 44-24 12TXR",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153N, 101W",
+  "latitude": null,
+  "longitude": null,
+  "stimulation_events": [
+    {
+      "date_stimulated": "11/25/2014",
+      "formation": "Three Forks",
+      "top_ft": 11418.0,
+      "bottom_ft": 21025.0,
+      "stages": 36,
+      "total_volume": 95600.0,
+      "volume_units": "Barrels",
+      "acid_percent": 9370930.0,
+      "lbs_proppant": 9044.0,
+      "max_pressure_psi": null,
+      "max_rate_bbl_per_min": 37.2,
+      "proppant_breakdown": [
+        {
+          "type": "40/70 ceramic",
+          "volume": 935244.0
+        },
+        {
+          "type": "30/50 ceramic",
+          "volume": 208641.0
+        },
+        {
+          "type": "40/70 white",
+          "volume": 844164.0
+        },
+        {
+          "type": "20/40 white",
+          "volume": 4382881.0
+        }
+      ]
+    }
+  ]
+}

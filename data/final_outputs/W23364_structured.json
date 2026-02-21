@@ -1,0 +1,38 @@
+{
+  "api_number": "33-105-02724",
+  "well_name": "Atlanta Federal 9-6H",
+  "operator": "CONTINENTAL RESOURCES, INC.",
+  "county": "Williams",
+  "township_range": "153 N, 101 W",
+  "latitude": 33.65,
+  "longitude": -103.434237,
+  "stimulation_events": [
+    {
+      "date_stimulated": "12/26/2013",
+      "formation": "Middle Bakken",
+      "top_ft": 10854.0,
+      "bottom_ft": 21315.0,
+      "stages": 34,
+      "total_volume": 59949.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 3970139.0,
+      "max_pressure_psi": 8018.0,
+      "max_rate_bbl_per_min": 31.0,
+      "proppant_breakdown": [
+        {
+          "type": "40/70 mesh",
+          "volume": 158561.0
+        },
+        {
+          "type": "20/40 sand",
+          "volume": 2707161.0
+        },
+        {
+          "type": "20/40 ceramic",
+          "volume": 1104411.0
+        }
+      ]
+    }
+  ]
+}

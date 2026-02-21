@@ -1,0 +1,38 @@
+{
+  "api_number": "33-053-05849",
+  "well_name": "Lewis Federal 5300 21-31 5B",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153N, 100W",
+  "latitude": null,
+  "longitude": null,
+  "stimulation_events": [
+    {
+      "date_stimulated": "07/16/2019",
+      "formation": "Bakken",
+      "top_ft": 1180.0,
+      "bottom_ft": 20791.0,
+      "stages": 35,
+      "total_volume": 323544.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 5990853.0,
+      "max_pressure_psi": 8955.0,
+      "max_rate_bbl_per_min": 520.0,
+      "proppant_breakdown": [
+        {
+          "type": "100 mesh",
+          "volume": 3556863.0
+        },
+        {
+          "type": "40/70 VVhite",
+          "volume": 1495810.0
+        },
+        {
+          "type": "40/70 CRC",
+          "volume": 938180.0
+        }
+      ]
+    }
+  ]
+}

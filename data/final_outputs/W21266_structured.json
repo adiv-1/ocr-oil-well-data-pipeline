@@ -1,0 +1,34 @@
+{
+  "api_number": "33-053-03703",
+  "well_name": "Dahl 15-11H",
+  "operator": "SM ENERGY COMPANY",
+  "county": "McKenzie",
+  "township_range": "153N, 101W",
+  "latitude": 48.045638,
+  "longitude": -103.380924,
+  "stimulation_events": [
+    {
+      "date_stimulated": "01/11/2012",
+      "formation": "Bakken",
+      "top_ft": 10952.0,
+      "bottom_ft": 20050.0,
+      "stages": 13,
+      "total_volume": 1822380.0,
+      "volume_units": "Gallons",
+      "acid_percent": null,
+      "lbs_proppant": 1450600.0,
+      "max_pressure_psi": 842.0,
+      "max_rate_bbl_per_min": 45.5,
+      "proppant_breakdown": [
+        {
+          "type": "20/40 sand",
+          "volume": 999800.0
+        },
+        {
+          "type": "40/70 sand",
+          "volume": 450800.0
+        }
+      ]
+    }
+  ]
+}

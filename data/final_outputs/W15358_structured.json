@@ -1,0 +1,81 @@
+{
+  "api_number": "33-053-02556",
+  "well_name": "Lewis & Clark 2-4H",
+  "operator": "NANCE PETROLEUM CORPORATION",
+  "county": "McKenzie",
+  "township_range": "153N, 101W",
+  "latitude": 46.8812,
+  "longitude": -103.4161923,
+  "stimulation_events": [
+    {
+      "date_stimulated": "February 4, 2004",
+      "formation": "Nesson",
+      "top_ft": 9803.0,
+      "bottom_ft": null,
+      "stages": null,
+      "total_volume": 24000.0,
+      "volume_units": "gal",
+      "acid_percent": 15.0,
+      "lbs_proppant": null,
+      "max_pressure_psi": 3900.0,
+      "max_rate_bbl_per_min": 14.0,
+      "proppant_breakdown": []
+    },
+    {
+      "date_stimulated": "January 13, 2004",
+      "formation": "Nesson",
+      "top_ft": 11200.0,
+      "bottom_ft": 12797.0,
+      "stages": null,
+      "total_volume": 35200.0,
+      "volume_units": "gal",
+      "acid_percent": 15.0,
+      "lbs_proppant": null,
+      "max_pressure_psi": 6000.0,
+      "max_rate_bbl_per_min": 5.0,
+      "proppant_breakdown": []
+    },
+    {
+      "date_stimulated": null,
+      "formation": "Nesson",
+      "top_ft": 8966.0,
+      "bottom_ft": 8974.0,
+      "stages": 8,
+      "total_volume": 14050.0,
+      "volume_units": "gal",
+      "acid_percent": 20.0,
+      "lbs_proppant": null,
+      "max_pressure_psi": 1800.0,
+      "max_rate_bbl_per_min": 49.0,
+      "proppant_breakdown": []
+    },
+    {
+      "date_stimulated": "November 12, 2003",
+      "formation": "Nesson",
+      "top_ft": 12797.0,
+      "bottom_ft": null,
+      "stages": null,
+      "total_volume": 14050.0,
+      "volume_units": "gal",
+      "acid_percent": 20.0,
+      "lbs_proppant": null,
+      "max_pressure_psi": null,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    },
+    {
+      "date_stimulated": null,
+      "formation": "Nesson",
+      "top_ft": 850.0,
+      "bottom_ft": 2200.0,
+      "stages": 8,
+      "total_volume": 176000.0,
+      "volume_units": "gal",
+      "acid_percent": 20.0,
+      "lbs_proppant": null,
+      "max_pressure_psi": null,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    }
+  ]
+}
