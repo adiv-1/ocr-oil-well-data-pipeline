@@ -1,0 +1,34 @@
+{
+  "api_number": "33-105-02728",
+  "well_name": "Atlanta Federal 5-6H",
+  "operator": "CONTINENTAL RESOURCES, INC.",
+  "county": "Williams",
+  "township_range": "153N, 101W",
+  "latitude": 48.63,
+  "longitude": -103.43,
+  "stimulation_events": [
+    {
+      "date_stimulated": "11/19/2013",
+      "formation": "MB",
+      "top_ft": 10858.0,
+      "bottom_ft": 21165.0,
+      "stages": 31,
+      "total_volume": 71324.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 3651745.0,
+      "max_pressure_psi": 7993.0,
+      "max_rate_bbl_per_min": 31.0,
+      "proppant_breakdown": [
+        {
+          "type": "20/40 sand",
+          "volume": 2523043.0
+        },
+        {
+          "type": "20/40 ceramic",
+          "volume": 1128702.0
+        }
+      ]
+    }
+  ]
+}

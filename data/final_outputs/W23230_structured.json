@@ -1,0 +1,38 @@
+{
+  "api_number": "33-053-04211",
+  "well_name": "ASH FEDERAL 5300 11-18T",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153N, 100W",
+  "latitude": 48.04,
+  "longitude": -103.360972,
+  "stimulation_events": [
+    {
+      "date_stimulated": "10/26/2012",
+      "formation": "Three Forks",
+      "top_ft": 11101.0,
+      "bottom_ft": 20482.0,
+      "stages": 36,
+      "total_volume": 92216.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 3700348.0,
+      "max_pressure_psi": 9214.0,
+      "max_rate_bbl_per_min": 42.2,
+      "proppant_breakdown": [
+        {
+          "type": "100 mesh",
+          "volume": 144777.0
+        },
+        {
+          "type": "40170 sand",
+          "volume": 1426577.0
+        },
+        {
+          "type": "20/40 ceramic",
+          "volume": 2128994.0
+        }
+      ]
+    }
+  ]
+}

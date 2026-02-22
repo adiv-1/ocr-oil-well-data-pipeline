@@ -1,0 +1,65 @@
+{
+  "api_number": "33-053-06056",
+  "well_name": "Kline Federal 5300 31-18 7T",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153N, 100W",
+  "latitude": 48.042784,
+  "longitude": -103.361138,
+  "stimulation_events": [
+    {
+      "date_stimulated": "07/12/2015",
+      "formation": "Three Forks",
+      "top_ft": 19681.0,
+      "bottom_ft": 20551.0,
+      "stages": 3,
+      "total_volume": 10330.0,
+      "volume_units": "Barrels",
+      "acid_percent": 295940.0,
+      "lbs_proppant": 8729.0,
+      "max_pressure_psi": 35.9,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": [
+        {
+          "type": "100 Mesh White",
+          "volume": 21060.0
+        },
+        {
+          "type": "40170 White",
+          "volume": 107840.0
+        },
+        {
+          "type": "30/50 White",
+          "volume": 167040.0
+        }
+      ]
+    },
+    {
+      "date_stimulated": "07/30/2015",
+      "formation": "Three Forks",
+      "top_ft": 11068.0,
+      "bottom_ft": 19681.0,
+      "stages": 33,
+      "total_volume": 200534.0,
+      "volume_units": "Barrels",
+      "acid_percent": 3873780.0,
+      "lbs_proppant": 9488.0,
+      "max_pressure_psi": 71.0,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": [
+        {
+          "type": "100 Mesh White",
+          "volume": 282880.0
+        },
+        {
+          "type": "40170 White",
+          "volume": 1436860.0
+        },
+        {
+          "type": "30/50 Ceramic",
+          "volume": 2154040.0
+        }
+      ]
+    }
+  ]
+}

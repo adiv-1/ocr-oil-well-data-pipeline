@@ -1,0 +1,73 @@
+{
+  "api_number": "33-053-05954",
+  "well_name": "Wade Federal 5300 41-30 6B",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153 N, 100 W",
+  "latitude": 48.04129167,
+  "longitude": -103.60300556,
+  "stimulation_events": [
+    {
+      "date_stimulated": "04/24/2015",
+      "formation": "Bakken",
+      "top_ft": 10032.0,
+      "bottom_ft": 20425.0,
+      "stages": 50,
+      "total_volume": 188339.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 9170249.0,
+      "max_pressure_psi": 9033.0,
+      "max_rate_bbl_per_min": 38.0,
+      "proppant_breakdown": [
+        {
+          "type": "40170 White",
+          "volume": 1209680.0
+        },
+        {
+          "type": "20/40 White",
+          "volume": 6519540.0
+        },
+        {
+          "type": "20/40 Resin Coated",
+          "volume": 1299520.0
+        },
+        {
+          "type": "100 Mesh White",
+          "volume": 208460.0
+        }
+      ]
+    },
+    {
+      "date_stimulated": "04/24/2015",
+      "formation": "Bakken",
+      "top_ft": 10032.0,
+      "bottom_ft": 20425.0,
+      "stages": 50,
+      "total_volume": 188339.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 9170249.0,
+      "max_pressure_psi": 9033.0,
+      "max_rate_bbl_per_min": 38.0,
+      "proppant_breakdown": [
+        {
+          "type": "40/70 White",
+          "volume": 1209680.0
+        },
+        {
+          "type": "20/40 White",
+          "volume": 6519540.0
+        },
+        {
+          "type": "20/40 Resin Coated",
+          "volume": 1299520.0
+        },
+        {
+          "type": "100 Mesh White",
+          "volume": 208460.0
+        }
+      ]
+    }
+  ]
+}

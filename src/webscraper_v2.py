@@ -83,13 +83,17 @@ def update_well_in_db(api_number, data):
         UPDATE wells
         SET well_status=%s,
             well_type=%s,
-            closest_city=%s
+            closest_city=%s,
+            latitude=%s,
+            longitude=%s
             
         WHERE api_number=%s
     """, (
         data.get("well_status"),
         data.get("well_type"),
         data.get("closest_city"),
+        data.get("latitude"),
+        data.get("longitude"),
         # data.get("oil_produced"),
         # data.get("gas_produced"),
         api_number
@@ -172,6 +176,26 @@ def scrape_well_data(driver, api_number):
             data["well_type"] = None
     except Exception:
         data["well_type"] = None
+
+    try:
+        th = soup.find("th", string="Latitude / Longitude")
+        if th:
+            td = th.find_next_sibling("td")
+            coords_text = td.get_text(strip=True)
+        
+            # Split into latitude and longitude
+            lat_str, lon_str = coords_text.split(",")
+        
+            data["latitude"] = float(lat_str.strip())
+            data["longitude"] = float(lon_str.strip())
+        else:
+            data["latitude"] = None
+            data["longitude"] = None
+
+    except Exception:
+        data["latitude"] = None
+        data["longitude"] = None
+
 
     return data
     # The following two fields (barrels of oil and gas produced) are only available to members of the site.

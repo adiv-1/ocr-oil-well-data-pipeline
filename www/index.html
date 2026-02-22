@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Oil Wells Map</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@latest/ol.css">
+  <style>
+    html, body { margin:0; padding:0; height:100%; }
+    #map { width:100%; height:100vh; }
+    .ol-popup {
+      position: absolute;
+      background: white;
+      padding: 10px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      min-width: 260px;
+    }
+    .well-title { font-weight: bold; margin-bottom: 6px; }
+    .small { font-size: 0.9em; color:#333; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.js"></script>
+  <script>
+    // URL to the geojson produced by the Python exporter (relative to site root)
+    const GEOJSON_URL = '/data/wells.geojson';
+
+    // Initialize map
+    const map = new ol.Map({
+      target: 'map',
+      layers: [
+        // Base layer - OpenStreetMap
+        new ol.layer.Tile({
+          source: new ol.source.OSM()
+        })
+      ],
+      view: new ol.View({
+        center: ol.proj.fromLonLat([-103.0, 48.0]), // centered roughly on ND
+        zoom: 6
+      })
+    });
+
+    // Vector source & layer
+    const vectorSource = new ol.source.Vector({
+      format: new ol.format.GeoJSON(),
+      url: GEOJSON_URL
+    });
+
+    const vectorLayer = new ol.layer.Vector({
+      source: vectorSource,
+      style: function(feature) {
+        // style by well_status or total production if you like
+        return new ol.style.Style({
+          image: new ol.style.Circle({
+            radius: 7,
+            fill: new ol.style.Fill({ color: '#1f78b4' }),
+            stroke: new ol.style.Stroke({ color: '#fff', width: 1 })
+          })
+        });
+      }
+    });
+
+    map.addLayer(vectorLayer);
+
+    // Popup overlay
+    const container = document.createElement('div');
+    container.className = 'ol-popup';
+    const overlay = new ol.Overlay({
+      element: container,
+      autoPan: true,
+      autoPanAnimation: { duration: 250 }
+    });
+    map.addOverlay(overlay);
+
+    // Helper to build HTML for popup
+    function buildPopupHTML(props) {
+      const sb = [];
+      sb.push(`<div class="well-title">${props.well_name || props.api_number}</div>`);
+      sb.push(`<div class="small"><b>API:</b> ${props.api_number || 'N/A'}</div>`);
+      sb.push(`<div class="small"><b>Operator:</b> ${props.operator || 'N/A'}</div>`);
+      sb.push(`<div class="small"><b>County:</b> ${props.county || 'N/A'}</div>`);
+      sb.push(`<div class="small"><b>Township/Range:</b> ${props.township_range || 'N/A'}</div>`);
+      sb.push(`<div class="small"><b>Status:</b> ${props.well_status || 'N/A'}</div>`);
+      sb.push(`<div class="small"><b>Type:</b> ${props.well_type || 'N/A'}</div>`);
+      sb.push(`<div class="small"><b>Closest City:</b> ${props.closest_city || 'N/A'}</div>`);
+
+      // stimulation events summary (list top N)
+      const events = props.stimulation_events || [];
+      if (events.length) {
+        sb.push(`<hr/>`);
+        sb.push(`<div class="small"><b>Stimulation Events:</b></div>`);
+        events.slice(0,5).forEach(ev => {
+          sb.push(`<div class="small" style="margin-bottom:6px;">
+            <b>Date:</b> ${ev.date_stimulated || 'N/A'}<br/>
+            <b>Formation:</b> ${ev.formation || 'N/A'}<br/>
+            <b>Stages:</b> ${ev.stages ?? 'N/A'} — <b>Total Vol:</b> ${ev.total_volume ?? 'N/A'} ${ev.volume_units || ''}
+            </div>`);
+        });
+        if (events.length > 5) sb.push(`<div class="small">... ${events.length} events total</div>`);
+      }
+
+      return sb.join('');
+    }
+
+    // Click handler - show popup for clicked feature
+    map.on('singleclick', function(evt) {
+      overlay.setPosition(undefined);
+      const pixel = map.getEventPixel(evt.originalEvent);
+      map.forEachFeatureAtPixel(pixel, function(feature) {
+        const coords = feature.getGeometry().getCoordinates();
+        const props = feature.getProperties();
+        const html = buildPopupHTML(props);
+        container.innerHTML = html;
+        overlay.setPosition(coords);
+      });
+    });
+
+    // Zoom to feature on double click (optional)
+    map.on('dblclick', function(evt) {
+      // prevent default zoom
+      evt.preventDefault();
+    });
+
+    // Fit view to data once loaded
+    vectorSource.on('change', function() {
+      if (vectorSource.getState() === 'ready') {
+        const extent = vectorSource.getExtent();
+        if (extent && !ol.extent.isEmpty(extent)) {
+          map.getView().fit(extent, { padding: [50,50,50,50], minResolution: 10 });
+        }
+      }
+    });
+  </script>
+</body>
+</html>

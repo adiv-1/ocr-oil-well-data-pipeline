@@ -1,0 +1,66 @@
+{
+  "api_number": "33-053-05924",
+  "well_name": "Chalmers 5301 44-24 2TR",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153 N, 101 W",
+  "latitude": null,
+  "longitude": null,
+  "stimulation_events": [
+    {
+      "date_stimulated": "10/31/2014",
+      "formation": "Three Forks",
+      "top_ft": 11043.0,
+      "bottom_ft": 20883.0,
+      "stages": 36,
+      "total_volume": 207943.0,
+      "volume_units": "Barrels",
+      "acid_percent": 73.0,
+      "lbs_proppant": 3775876.0,
+      "max_pressure_psi": 9936.0,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": [
+        {
+          "type": "40/70 Ceramic",
+          "volume": 1461677.0
+        },
+        {
+          "type": "30/50 Ceramic",
+          "volume": 2271618.0
+        },
+        {
+          "type": "40/70 White",
+          "volume": 42581.0
+        }
+      ]
+    },
+    {
+      "date_stimulated": "October 31, 2014",
+      "formation": "Bakken",
+      "top_ft": null,
+      "bottom_ft": null,
+      "stages": null,
+      "total_volume": null,
+      "volume_units": null,
+      "acid_percent": null,
+      "lbs_proppant": null,
+      "max_pressure_psi": 11220.0,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    },
+    {
+      "date_stimulated": null,
+      "formation": "Three Forks",
+      "top_ft": 10171.0,
+      "bottom_ft": 21028.0,
+      "stages": null,
+      "total_volume": null,
+      "volume_units": null,
+      "acid_percent": null,
+      "lbs_proppant": null,
+      "max_pressure_psi": null,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "api_number": "33-053-06057",
+  "well_name": "Kline Federal 5300 31-18 6B",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153N, 100W",
+  "latitude": 48.042751,
+  "longitude": -103.603138,
+  "stimulation_events": [
+    {
+      "date_stimulated": "07/13/2015",
+      "formation": "Bakken",
+      "top_ft": 11108.0,
+      "bottom_ft": 20592.0,
+      "stages": 36,
+      "total_volume": 220489.0,
+      "volume_units": "Barrels",
+      "acid_percent": 71.0,
+      "lbs_proppant": 4243874.0,
+      "max_pressure_psi": 9096.0,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": [
+        {
+          "type": "100 Mesh White",
+          "volume": 314040.0
+        },
+        {
+          "type": "40/70 White",
+          "volume": 1556974.0
+        },
+        {
+          "type": "30/50 White",
+          "volume": 2372860.0
+        }
+      ]
+    },
+    {
+      "date_stimulated": null,
+      "formation": "Bakken",
+      "top_ft": null,
+      "bottom_ft": null,
+      "stages": null,
+      "total_volume": null,
+      "volume_units": null,
+      "acid_percent": null,
+      "lbs_proppant": null,
+      "max_pressure_psi": 11220.0,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    }
+  ]
+}

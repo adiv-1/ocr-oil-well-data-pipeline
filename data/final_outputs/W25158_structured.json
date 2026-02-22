@@ -1,0 +1,34 @@
+{
+  "api_number": "33-053-04854",
+  "well_name": "Tallahassee 2-16H",
+  "operator": "CONTINENTAL RESOURCES, INC.",
+  "county": "McKenzie",
+  "township_range": "153 N, 101 W",
+  "latitude": 48.04,
+  "longitude": -103.401168,
+  "stimulation_events": [
+    {
+      "date_stimulated": "3/14/2014",
+      "formation": "Bakken",
+      "top_ft": 11080.0,
+      "bottom_ft": 18127.0,
+      "stages": 24,
+      "total_volume": 56607.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 3013084.0,
+      "max_pressure_psi": 7518.0,
+      "max_rate_bbl_per_min": 30.0,
+      "proppant_breakdown": [
+        {
+          "type": "20/40 sand",
+          "volume": 2150603.0
+        },
+        {
+          "type": "20/40 ceramic",
+          "volume": 862481.0
+        }
+      ]
+    }
+  ]
+}

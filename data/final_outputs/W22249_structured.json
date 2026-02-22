@@ -1,0 +1,38 @@
+{
+  "api_number": "33-053-03944",
+  "well_name": "Magnum 2-36-25H",
+  "operator": "SLAWSON EXPLORATION COMPANY, INC.",
+  "county": "McKenzie",
+  "township_range": "153 N, 101 W",
+  "latitude": 48.024919,
+  "longitude": -103.604524,
+  "stimulation_events": [
+    {
+      "date_stimulated": "11/M/2012",
+      "formation": "Middle Bakken",
+      "top_ft": 11104.0,
+      "bottom_ft": 20705.0,
+      "stages": 32,
+      "total_volume": 22133.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 1160090.0,
+      "max_pressure_psi": 8403.0,
+      "max_rate_bbl_per_min": 39.7,
+      "proppant_breakdown": [
+        {
+          "type": "20/40 White Sand",
+          "volume": 346204.0
+        },
+        {
+          "type": "40/70 White Sane I",
+          "volume": 182669.0
+        },
+        {
+          "type": "20/40 Ceramic",
+          "volume": 631217.0
+        }
+      ]
+    }
+  ]
+}

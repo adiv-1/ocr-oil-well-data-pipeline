@@ -1,0 +1,38 @@
+{
+  "api_number": "33-053-06022",
+  "well_name": "Chalmers 5300 21-19 10T",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153N, 100W",
+  "latitude": 48.06129166666666,
+  "longitude": -103.602775,
+  "stimulation_events": [
+    {
+      "date_stimulated": "04/08/2015",
+      "formation": "Three Forks",
+      "top_ft": 11118.0,
+      "bottom_ft": 20558.0,
+      "stages": 36,
+      "total_volume": 214367.0,
+      "volume_units": "Barrels",
+      "acid_percent": 75.0,
+      "lbs_proppant": 3828642.0,
+      "max_pressure_psi": 9063.0,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": [
+        {
+          "type": "100 Mesh White",
+          "volume": 265265.0
+        },
+        {
+          "type": "40/70 Ceramic",
+          "volume": 1428560.0
+        },
+        {
+          "type": "30/50 Ceramic",
+          "volume": 2134817.0
+        }
+      ]
+    }
+  ]
+}

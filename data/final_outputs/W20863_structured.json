@@ -1,0 +1,57 @@
+{
+  "api_number": "33-053-03608",
+  "well_name": "Foley Federal 5301 43-12H",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153N, 101W",
+  "latitude": 48.04,
+  "longitude": -103.364178,
+  "stimulation_events": [
+    {
+      "date_stimulated": "1446/2014",
+      "formation": "Bakken",
+      "top_ft": 10162.0,
+      "bottom_ft": 20440.0,
+      "stages": null,
+      "total_volume": 74475.0,
+      "volume_units": "Barrels",
+      "acid_percent": 43.6,
+      "lbs_proppant": 9292.0,
+      "max_pressure_psi": 8877.0,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": [
+        {
+          "type": "40/79 white-",
+          "volume": 1825104.0
+        },
+        {
+          "type": "20/49 white-",
+          "volume": 2694188.0
+        }
+      ]
+    },
+    {
+      "date_stimulated": "2014",
+      "formation": "Bakken",
+      "top_ft": 10162.0,
+      "bottom_ft": 20440.0,
+      "stages": 3,
+      "total_volume": 74476.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 4519292.0,
+      "max_pressure_psi": 8877.0,
+      "max_rate_bbl_per_min": 43.8,
+      "proppant_breakdown": [
+        {
+          "type": "40/70 white",
+          "volume": 1626104.0
+        },
+        {
+          "type": "20/40 white",
+          "volume": 2694188.0
+        }
+      ]
+    }
+  ]
+}

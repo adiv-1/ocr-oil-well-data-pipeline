@@ -1,0 +1,38 @@
+{
+  "api_number": "33-053-04853",
+  "well_name": "Tallahassee 3-16H",
+  "operator": "CONTINENTAL RESOURCES, INC.",
+  "county": "McKenzie",
+  "township_range": "153N, 101W",
+  "latitude": 48.04,
+  "longitude": -103.4,
+  "stimulation_events": [
+    {
+      "date_stimulated": "3/14/2014",
+      "formation": "Three Forks",
+      "top_ft": 10830.0,
+      "bottom_ft": 18434.0,
+      "stages": 24,
+      "total_volume": 64952.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 2829582.0,
+      "max_pressure_psi": 8491.0,
+      "max_rate_bbl_per_min": 31.0,
+      "proppant_breakdown": [
+        {
+          "type": "40/70 mesh",
+          "volume": 89291.0
+        },
+        {
+          "type": "20/40 sand",
+          "volume": 1970321.0
+        },
+        {
+          "type": "20/40 ceramic",
+          "volume": 769970.0
+        }
+      ]
+    }
+  ]
+}

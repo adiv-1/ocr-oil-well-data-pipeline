@@ -1,0 +1,38 @@
+{
+  "api_number": "33-053-03413",
+  "well_name": "Wade Federal 5300 21-30H",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153N, 100W",
+  "latitude": 48.034783,
+  "longitude": -103.603089,
+  "stimulation_events": [
+    {
+      "date_stimulated": "7/3/2014",
+      "formation": "Bakken",
+      "top_ft": 14082.0,
+      "bottom_ft": 20481.0,
+      "stages": null,
+      "total_volume": 76768.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 4440378.0,
+      "max_pressure_psi": 9679.0,
+      "max_rate_bbl_per_min": 423.0,
+      "proppant_breakdown": [
+        {
+          "type": "140/70 sand",
+          "volume": 723700.0
+        },
+        {
+          "type": "20/40 sand",
+          "volume": 1006140.0
+        },
+        {
+          "type": "120/40 ceramic",
+          "volume": 2710536.0
+        }
+      ]
+    }
+  ]
+}

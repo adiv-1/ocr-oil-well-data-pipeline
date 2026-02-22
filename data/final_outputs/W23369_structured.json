@@ -1,0 +1,48 @@
+{
+  "api_number": "33-105-02729",
+  "well_name": "Atlanta 4-6H",
+  "operator": "CONTINENTAL RESOURCES, INC.",
+  "county": "Williams",
+  "township_range": "153N, 101W",
+  "latitude": 48.0633667,
+  "longitude": -103.4351581,
+  "stimulation_events": [
+    {
+      "date_stimulated": "11/E /2013",
+      "formation": "3 Forks",
+      "top_ft": 10913.0,
+      "bottom_ft": 20504.0,
+      "stages": 31,
+      "total_volume": 51878.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 3223232.0,
+      "max_pressure_psi": 8540.0,
+      "max_rate_bbl_per_min": 28.0,
+      "proppant_breakdown": [
+        {
+          "type": "20/40 sand",
+          "volume": 2230502.0
+        },
+        {
+          "type": "20/40 ceramic",
+          "volume": 992730.0
+        }
+      ]
+    },
+    {
+      "date_stimulated": "Janua 29,2013",
+      "formation": "Bakken",
+      "top_ft": null,
+      "bottom_ft": null,
+      "stages": null,
+      "total_volume": null,
+      "volume_units": null,
+      "acid_percent": null,
+      "lbs_proppant": null,
+      "max_pressure_psi": 9960.0,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    }
+  ]
+}

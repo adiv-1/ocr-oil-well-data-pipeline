@@ -1,0 +1,25 @@
+{
+  "api_number": "33-053-90244",
+  "well_name": "Buck Shot SWD 5300 31-31H",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153 N, 100 W",
+  "latitude": 48.02,
+  "longitude": -103.359,
+  "stimulation_events": [
+    {
+      "date_stimulated": "07/20/2013",
+      "formation": "Dakota",
+      "top_ft": 5625.0,
+      "bottom_ft": 6150.0,
+      "stages": 8,
+      "total_volume": 9000.0,
+      "volume_units": "Gallons",
+      "acid_percent": 100.0,
+      "lbs_proppant": null,
+      "max_pressure_psi": null,
+      "max_rate_bbl_per_min": null,
+      "proppant_breakdown": []
+    }
+  ]
+}

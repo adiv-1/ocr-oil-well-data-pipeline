@@ -1,0 +1,38 @@
+{
+  "api_number": "33-053-04981",
+  "well_name": "Colville 5301 44-12T",
+  "operator": "OASIS PETROLEUM NORTH AMERICA LLC",
+  "county": "McKenzie",
+  "township_range": "153N, 101W",
+  "latitude": 48.045778,
+  "longitude": -103.362888,
+  "stimulation_events": [
+    {
+      "date_stimulated": "09/11/2013",
+      "formation": "Bakken",
+      "top_ft": 21090.0,
+      "bottom_ft": null,
+      "stages": 36,
+      "total_volume": 95801.0,
+      "volume_units": "Barrels",
+      "acid_percent": null,
+      "lbs_proppant": 3826701.0,
+      "max_pressure_psi": 9406.0,
+      "max_rate_bbl_per_min": 36.0,
+      "proppant_breakdown": [
+        {
+          "type": "100 mesh",
+          "volume": 127379.0
+        },
+        {
+          "type": "40/70 White",
+          "volume": 1462926.0
+        },
+        {
+          "type": "20/40 Ceramic",
+          "volume": 2236396.0
+        }
+      ]
+    }
+  ]
+}

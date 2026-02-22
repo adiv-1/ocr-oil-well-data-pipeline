@@ -108,71 +108,73 @@ def insert_well_data():
 
         with open(file, "r", encoding="utf-8") as f:
             well = json.load(f)
-
-        # Insert well
-        cursor.execute("""
-            INSERT INTO wells (
-                api_number, well_name, operator, county,
-                township_range, latitude, longitude
-            ) VALUES (%s, %s, %s, %s, %s, %s, %s)
-            ON DUPLICATE KEY UPDATE
-                well_name=VALUES(well_name),
-                operator=VALUES(operator),
-                county=VALUES(county),
-                township_range=VALUES(township_range),
-                latitude=VALUES(latitude),
-                longitude=VALUES(longitude)
-        """, (
-            well["api_number"],
-            well["well_name"],
-            well["operator"],
-            well["county"],
-            well["township_range"],
-            well["latitude"],
-            well["longitude"]
-        ))
-
-        # Insert stimulation events
-        for event in well.get("stimulation_events", []):
-
-            date_value = event.get("date_stimulated")
-
+        if well.get("api_number"):
+            # Insert well
             cursor.execute("""
-                INSERT INTO stimulation_events (
-                    api_number, date_stimulated, formation,
-                    top_ft, bottom_ft, stages,
-                    total_volume, volume_units, acid_percent,
-                    lbs_proppant, max_pressure_psi,
-                    max_rate_bbl_per_min
-                ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                INSERT INTO wells (
+                    api_number, well_name, operator, county,
+                    township_range, latitude, longitude
+                ) VALUES (%s, %s, %s, %s, %s, %s, %s)
+                ON DUPLICATE KEY UPDATE
+                    well_name=VALUES(well_name),
+                    operator=VALUES(operator),
+                    county=VALUES(county),
+                    township_range=VALUES(township_range),
+                    latitude=VALUES(latitude),
+                    longitude=VALUES(longitude)
             """, (
                 well["api_number"],
-                date_value,
-                event.get("formation"),
-                event.get("top_ft"),
-                event.get("bottom_ft"),
-                event.get("stages"),
-                event.get("total_volume"),
-                event.get("volume_units"),
-                event.get("acid_percent"),
-                event.get("lbs_proppant"),
-                event.get("max_pressure_psi"),
-                event.get("max_rate_bbl_per_min")
+                well["well_name"],
+                well["operator"],
+                well["county"],
+                well["township_range"],
+                well["latitude"],
+                well["longitude"]
             ))
 
-            stimulation_event_id = cursor.lastrowid
+            # Insert stimulation events
+            for event in well.get("stimulation_events", []):
 
-            # Insert proppant breakdown
-            for detail in event.get("proppant_breakdown", []):
+                date_value = event.get("date_stimulated")
+
                 cursor.execute("""
-                    INSERT INTO proppant_details (
-                        stimulation_event_id, type, volume
-                    ) VALUES (%s, %s, %s)
+                    INSERT INTO stimulation_events (
+                        api_number, date_stimulated, formation,
+                        top_ft, bottom_ft, stages,
+                        total_volume, volume_units, acid_percent,
+                        lbs_proppant, max_pressure_psi,
+                        max_rate_bbl_per_min
+                    ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                 """, (
-                    stimulation_event_id,
-                    detail.get("type"),
-                    detail.get("volume")
+                    well["api_number"],
+                    date_value,
+                    event.get("formation"),
+                    event.get("top_ft"),
+                    event.get("bottom_ft"),
+                    event.get("stages"),
+                    event.get("total_volume"),
+                    event.get("volume_units"),
+                    event.get("acid_percent"),
+                    event.get("lbs_proppant"),
+                    event.get("max_pressure_psi"),
+                    event.get("max_rate_bbl_per_min")
                 ))
+
+                stimulation_event_id = cursor.lastrowid
+
+                # Insert proppant breakdown
+                for detail in event.get("proppant_breakdown", []):
+                    cursor.execute("""
+                        INSERT INTO proppant_details (
+                            stimulation_event_id, type, volume
+                        ) VALUES (%s, %s, %s)
+                    """, (
+                        stimulation_event_id,
+                        detail.get("type"),
+                        detail.get("volume")
+                    ))
+        else:
+            continue
 
     connection.commit()
     cursor.close()

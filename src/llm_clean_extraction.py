@@ -71,16 +71,18 @@ def combine_township_range(township, range_):
     Combine township and range into proper format.
     Returns None if both are missing.
     """
+    if isinstance(township, str) and isinstance(range_, str):
+        township = township.strip() if township else None
+        range_ = range_.strip() if range_ else None
 
-    township = township.strip() if township else None
-    range_ = range_.strip() if range_ else None
-
-    if township and range_:
-        return f"{township}, {range_}"
-    elif township:
-        return township
-    elif range_:
-        return range_
+        if township and range_:
+            return f"{township}, {range_}"
+        elif township:
+            return township
+        elif range_:
+            return range_
+        else: 
+            return None
     else:
         return None
 
@@ -126,7 +128,7 @@ def clean_segments(segments):
     return cleaned
 
 def process(input_path, output_path):
-    for json_file in input_path.glob("*.json"):
+    for json_file in sorted(input_path.glob("*.json")):
         print(f"\nProcessing: {json_file.name}")
 
         try:
