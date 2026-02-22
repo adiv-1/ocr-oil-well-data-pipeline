@@ -1,13 +1,80 @@
 # Oil Wells Data Wrangling 
 
 ## Project Overview
-Python-based ETL pipeline that performs OCR on scanned oil well PDFs, parses well and stimulation data, enriches records through web scraping, stores structured results in MySQL, and renders interactive geospatial visualizations via a web interface.
+Python-based ETL pipeline that performs OCR on scanned oil well PDFs, parses well and stimulation data, enriches records through web scraping, stores structured results in MySQL, and renders interactive geospatial visualizations via a web interface through Apache.
+
+## Project Structure
+
+```
+ocr-oil-well-data-pipeline/
+│
+├── src/
+│ ├── ocr.py
+│ ├── filter_pages.py
+│ ├── extract_entities.py
+│ ├── llm_clean_extraction.py
+│ ├── sql_db.py
+│ ├── webscraper_v2.py
+│ └── build_geojson.py
+│
+├── www/
+│ ├── index.html
+│ └── data/
+│       └── wells.geo.json
+│
+├── data/
+│  ├── original_pdfs/
+│  ├── ...
+│  └── final_outputs/
+│
+├── .env
+├── requirements.txt
+└── README.md
+
+```
+
+## Data Pipeline Architecture
+
+1. **OCR** extracts raw text from scanned PDFs.
+2. **Page Filtering** removes irrelevant pages.
+3. **Entity Extraction** identifies well and stimulation data.
+4. **LLM Cleaning** standardizes extracted entities using LLM.
+5. **Database Storage** inserts structured records into MySQL.
+6. **Web Scraping** enriches database with additional fields.
+7. **GeoJSON Builder** converts database records to geospatial format.
+8. **Frontend Visualization** renders wells on an interactive map.
+
+
+## Installation
+
+### 1. Clone the Repository
+
+```
+git clone <repository-url>
+cd ocr-oil-well-data-pipeline
+```
+
+### 2. Install Python Dependencies 
+
+```
+pip install -r requirements.txt
+```
+
+### 3. Install Tesseract OCR
+
+On Mac: 
+
+```
+brew install tesseract
+```
+
+Windows: Download from [GitHub Tesseract releases](https://github.com/tesseract-ocr/tesseract)
 
 ## Setup 
 
 ### Google API Key for Gemini LLM 
 
-* Add your Google API Key to .env file
+Add your Google API Key to .env file
 
 ### MySQL Database
 
@@ -55,7 +122,7 @@ Make sure Apache is downloaded.
 brew install httpd
 ```
 
-Ensure that `www/index.html` and `www/data/wells.geo.json` exist (Copy files/folders over to Apache's Document Root)
+Ensure that `www/index.html` and `www/data/wells.geo.json` exist (copy files/folders over to Apache's Document Root)
 ```
 cp -R <path to your www folder e.g. ~/ocr-oil-well-data-pipeline/www/*> /usr/local/var/www/
 ```
