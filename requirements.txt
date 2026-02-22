@@ -1,0 +1,11 @@
+mysql-connector-python
+google-generativeai
+python-dotenv
+requests
+pydantic
+PyMuPDF
+pytesseract
+Pillow
+selenium
+webdriver-manager
+beautifulsoup4
