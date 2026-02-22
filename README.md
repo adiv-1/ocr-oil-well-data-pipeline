@@ -74,7 +74,7 @@ Windows: Download from [GitHub Tesseract releases](https://github.com/tesseract-
 
 ### Google API Key for Gemini LLM 
 
-Add your Google API Key to .env file
+Add your Google API Key to .env file.
 
 ### MySQL Database
 
