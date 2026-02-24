@@ -20,7 +20,7 @@ ocr-oil-well-data-pipeline/
 ├── www/
 │ ├── index.html
 │ └── data/
-│       └── wells.geo.json
+│       └── wells.geojson
 │
 ├── data/
 │  ├── original_pdfs/
